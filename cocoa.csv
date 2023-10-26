@@ -1,0 +1,2444 @@
+"","company_location","review_date","country_of_bean_origin","cocoa_percent","no_ingredients","rating"
+"1","U.S.A.",2019,"Tanzania",76,3,3.25
+"2","U.S.A.",2019,"Dominican Republic",76,3,3.5
+"3","U.S.A.",2019,"Madagascar",76,3,3.75
+"4","U.S.A.",2021,"Fiji",68,3,3
+"5","U.S.A.",2021,"Venezuela",72,3,3
+"6","U.S.A.",2021,"Uganda",80,3,3.25
+"7","U.S.A.",2021,"India",68,3,3.5
+"8","France",2012,"Bolivia",70,4,3.5
+"9","France",2012,"Peru",63,4,3.75
+"10","France",2013,"Panama",70,4,2.75
+"11","France",2013,"Colombia",70,4,2.75
+"12","France",2013,"Madagascar",70,4,3
+"13","France",2013,"Burma",70,4,3
+"14","France",2013,"Brazil",70,4,3.25
+"15","France",2013,"Papua New Guinea",70,4,3.25
+"16","France",2013,"Peru",70,4,3.25
+"17","France",2013,"Peru",70,4,3.5
+"18","France",2013,"Ecuador",70,4,3.75
+"19","France",2013,"Venezuela",70,4,4
+"20","France",2013,"Peru",63,3,4
+"21","France",2014,"Venezuela",70,4,2.75
+"22","France",2014,"Cuba",70,4,3.5
+"23","France",2014,"Venezuela",70,4,3.5
+"24","France",2014,"Venezuela",70,4,3.75
+"25","France",2014,"Peru",70,4,4
+"26","France",2015,"Togo",70,4,2.75
+"27","France",2015,"Togo",70,4,3
+"28","France",2015,"Togo",70,4,3.5
+"29","France",2015,"Peru",70,4,3.5
+"30","France",2016,"Sao Tome",63,4,3.75
+"31","France",2018,"Venezuela",70,4,3.5
+"32","France",2018,"Peru",63,4,3.75
+"33","France",2021,"Mexico",70,4,4
+"34","U.S.A.",2015,"Peru",70,2,3.75
+"35","U.S.A.",2015,"Peru",70,2,3.75
+"36","U.S.A.",2020,"Mexico",74,2,3.25
+"37","U.S.A.",2020,"Peru",70,2,3.5
+"38","Fiji",2011,"Fiji",60,3,2.75
+"39","Fiji",2011,"Fiji",80,3,3.25
+"40","Fiji",2011,"Fiji",88,3,3.5
+"41","Fiji",2011,"Fiji",72,3,3.5
+"42","Vanuatu",2019,"Vanuatu",70,2,2.5
+"43","Vanuatu",2019,"Vanuatu",70,2,2.75
+"44","Vanuatu",2019,"Vanuatu",70,2,2.75
+"45","Vanuatu",2019,"Vanuatu",70,2,3
+"46","Ecuador",2009,"Ecuador",55,4,2.75
+"47","Ecuador",2009,"Ecuador",70,4,3
+"48","Mexico",2009,"Mexico",70,3,3
+"49","U.K.",2010,"Madagascar",75,4,2.75
+"50","U.K.",2010,"Brazil",75,4,2.75
+"51","U.K.",2011,"Indonesia",75,4,3.75
+"52","France",2013,"Venezuela",75,5,2.5
+"53","France",2013,"Peru",75,5,2.5
+"54","France",2014,"Trinidad",65,6,2.75
+"55","France",2014,"Vietnam",75,5,2.75
+"56","France",2014,"Madagascar",75,5,3
+"57","France",2017,"Mexico",75,6,3.5
+"58","Netherlands",2017,"Ecuador",70,3,3.5
+"59","Netherlands",2017,"Nicaragua",70,3,3.5
+"60","Netherlands",2017,"Tanzania",70,3,3.5
+"61","Netherlands",2017,"Vietnam",70,3,3.5
+"62","U.S.A.",2013,"Venezuela",60,4,2.5
+"63","U.S.A.",2013,"Dominican Republic",60,4,3
+"64","U.S.A.",2013,"Bolivia",60,4,3
+"65","U.S.A.",2013,"Bolivia",80,4,3.25
+"66","U.S.A.",2013,"Peru",60,4,3.25
+"67","U.S.A.",2016,"Bolivia",60,3,2.5
+"68","U.S.A.",2016,"Peru",60,3,2.5
+"69","U.S.A.",2016,"Nicaragua",60,3,2.75
+"70","U.S.A.",2016,"Ecuador",60,3,2.75
+"71","U.S.A.",2016,"Peru",60,3,3
+"72","U.S.A.",2018,"Dominican Republic",70,3,3
+"73","U.S.A.",2007,"Venezuela",70,4,3
+"74","U.S.A.",2007,"Madagascar",70,4,3.5
+"75","U.S.A.",2007,"Venezuela",70,4,3.75
+"76","U.S.A.",2008,"Indonesia",70,4,2.75
+"77","U.S.A.",2009,"Venezuela",70,4,3
+"78","U.S.A.",2010,"Venezuela",70,4,3
+"79","U.S.A.",2010,"Dominican Republic",70,4,3.75
+"80","U.S.A.",2010,"Ecuador",70,4,4
+"81","U.S.A.",2011,"Papua New Guinea",70,4,4
+"82","Spain",2009,"Ecuador",70,2,2.75
+"83","Spain",2009,"Ecuador",85,2,2.75
+"84","Spain",2009,"Ghana",70,2,3
+"85","Spain",2009,"Ghana",85,2,3
+"86","Peru",2013,"Peru",72,3,3.25
+"87","Peru",2013,"Peru",73,3,3.5
+"88","Canada",2015,"Belize",64,4,3
+"89","Canada",2015,"Madagascar",66,2,3.25
+"90","Canada",2015,"Dominican Republic",75,2,3.25
+"91","Canada",2015,"Papua New Guinea",63,2,3.25
+"92","Canada",2015,"Venezuela",70,2,3.25
+"93","Canada",2015,"Peru",68,2,3.5
+"94","Italy",2006,"Blend",66,4,3.75
+"95","Italy",2007,"Ecuador",70,4,3
+"96","Italy",2007,"Jamaica",70,4,3
+"97","Italy",2007,"Grenada",70,4,3.5
+"98","Italy",2007,"Trinidad",70,4,3.5
+"99","Italy",2007,"Blend",63,4,3.5
+"100","Italy",2007,"Venezuela",70,4,3.75
+"101","Italy",2012,"Peru",70,4,3.75
+"102","Italy",2018,"Madagascar",70,4,3
+"103","Italy",2018,"Venezuela",70,4,3
+"104","Italy",2018,"Venezuela",70,4,3
+"105","Italy",2018,"Blend",75,4,3.5
+"106","Italy",2019,"Blend",70,3,2.75
+"107","Brazil",2010,"Brazil",85,4,2.75
+"108","Brazil",2010,"Brazil",50,4,3.75
+"109","Brazil",2010,"Brazil",75,4,3.75
+"110","Brazil",2010,"Brazil",60,4,4
+"111","Brazil",2013,"Brazil",75,4,3.25
+"112","U.S.A.",2014,"Dominican Republic",75,2,3
+"113","U.S.A.",2016,"Bolivia",75,2,3.5
+"114","U.S.A.",2021,"Belize",75,2,3
+"115","U.S.A.",2021,"Guatemala",75,2,3.25
+"116","France",2014,"Mexico",72,3,2.5
+"117","France",2014,"Ecuador",75,3,2.75
+"118","France",2014,"Madagascar",75,3,3
+"119","France",2014,"Venezuela",75,3,3
+"120","U.S.A.",2015,"Brazil",75,2,2.75
+"121","U.S.A.",2015,"Guatemala",70,2,3.25
+"122","U.S.A.",2015,"Brazil",70,2,3.5
+"123","U.S.A.",2015,"Peru",68,2,3.5
+"124","U.S.A.",2015,"Dominican Republic",70,2,3.5
+"125","U.S.A.",2015,"Ecuador",75,3,3.5
+"126","U.S.A.",2015,"Ecuador",70,2,3.75
+"127","U.S.A.",2015,"Belize",70,2,3.75
+"128","U.S.A.",2015,"Nicaragua",70,2,4
+"129","U.S.A.",2016,"Ecuador",70,3,3.25
+"130","U.S.A.",2016,"Ecuador",70,3,3.25
+"131","U.S.A.",2016,"Fiji",70,2,3.25
+"132","U.S.A.",2016,"Vietnam",73,2,3.25
+"133","U.S.A.",2016,"Trinidad",70,2,3.5
+"134","U.S.A.",2016,"Vietnam",73,3,3.5
+"135","U.S.A.",2016,"Guatemala",70,2,3.5
+"136","U.S.A.",2016,"Honduras",70,2,3.5
+"137","U.S.A.",2016,"Tanzania",70,2,3.75
+"138","U.S.A.",2016,"Nicaragua",70,3,3.75
+"139","U.S.A.",2016,"Dominican Republic",70,2,3.75
+"140","U.S.A.",2016,"Costa Rica",70,2,4
+"141","U.S.A.",2016,"Peru",70,2,4
+"142","U.S.A.",2017,"India",70,2,3.5
+"143","U.S.A.",2017,"Madagascar",70,3,3.5
+"144","U.S.A.",2017,"Vietnam",73,3,3.5
+"145","U.S.A.",2017,"Peru",70,3,3.5
+"146","U.S.A.",2017,"Bolivia",70,2,4
+"147","U.S.A.",2017,"Haiti",70,2,4
+"148","U.S.A.",2018,"Trinidad",70,2,3
+"149","U.S.A.",2018,"Colombia",70,2,4
+"150","U.S.A.",2019,"India",70,3,3
+"151","U.S.A.",2019,"India",70,3,3.25
+"152","Nicaragua",2018,"Nicaragua",70,2,3
+"153","Nicaragua",2018,"Nicaragua",70,2,3.25
+"154","Nicaragua",2018,"Nicaragua",70,2,3.5
+"155","Nicaragua",2018,"Nicaragua",70,2,3.5
+"156","U.K.",2008,"Congo",72,3,3.75
+"157","U.K.",2009,"Brazil",72,3,1.75
+"158","U.K.",2009,"Venezuela",75,3,2.5
+"159","U.K.",2009,"Indonesia",72,3,2.75
+"160","U.K.",2009,"Madagascar",80,3,3
+"161","U.K.",2009,"Peru",75,3,3
+"162","U.K.",2009,"Dominican Republic",72,3,3.25
+"163","U.K.",2010,"Costa Rica",72,3,3.25
+"164","U.K.",2010,"Vietnam",72,3,3.25
+"165","U.K.",2010,"Indonesia",72,3,3.5
+"166","U.K.",2010,"Jamaica",72,3,3.75
+"167","U.K.",2011,"Panama",72,3,2.75
+"168","U.K.",2011,"Haiti",72,3,4
+"169","U.K.",2012,"Colombia",72,3,3.75
+"170","U.K.",2013,"Trinidad",72,3,3.25
+"171","U.K.",2013,"Colombia",72,4,2.75
+"172","Italy",2021,"India",72,4,3.25
+"173","Italy",2021,"Madagascar",72,4,3.25
+"174","Italy",2021,"Tanzania",72,4,3.5
+"175","U.S.A.",2007,"Mexico",75,2,2.5
+"176","U.S.A.",2007,"Ecuador",70,2,3
+"177","U.S.A.",2009,"Philippines",77,2,3.75
+"178","U.S.A.",2011,"Tanzania",72,2,3.75
+"179","U.S.A.",2011,"Honduras",70,2,3.75
+"180","U.S.A.",2016,"Tanzania",68,3,3.75
+"181","Australia",2019,"Solomon Islands",70,4,3
+"182","Philippines",2018,"Philippines",77,4,2.75
+"183","Philippines",2018,"Philippines",70,3,3
+"184","Philippines",2018,"Philippines",70,3,3
+"185","Philippines",2018,"Philippines",70,3,3.5
+"186","Canada",2021,"Colombia",70,2,2.5
+"187","Canada",2021,"Dominican Republic",70,2,3
+"188","Australia",2012,"Brazil",70,2,2.5
+"189","Australia",2012,"Blend",70,2,2.5
+"190","Australia",2012,"Madagascar",70,2,3
+"191","Australia",2015,"Blend",80,2,3.25
+"192","Australia",2015,"Papua New Guinea",70,2,3.5
+"193","Brazil",2018,"Brazil",70,2,3
+"194","Peru",2015,"Peru",70,3,2.75
+"195","Peru",2015,"Peru",70,3,3.5
+"196","U.S.A.",2019,"Belize",72,3,2.5
+"197","U.S.A.",2019,"Uganda",82,3,2.75
+"198","U.S.A.",2019,"Tanzania",72,3,3.25
+"199","U.S.A.",2012,"Dominican Republic",70,2,3.25
+"200","U.S.A.",2012,"Mexico",70,2,3.5
+"201","U.S.A.",2012,"Madagascar",70,2,3.75
+"202","U.S.A.",2014,"Peru",70,2,4
+"203","U.S.A.",2015,"Brazil",70,2,3.5
+"204","U.S.A.",2017,"Costa Rica",72,2,3.5
+"205","U.S.A.",2017,"Trinidad",80,2,3.5
+"206","Wales",2012,"Costa Rica",80,4,2.75
+"207","U.S.A.",2016,"Ecuador",65,3,3.25
+"208","U.S.A.",2016,"Dominican Republic",65,3,3.5
+"209","U.S.A.",2016,"Brazil",70,3,3.75
+"210","U.K.",2019,"Peru",70,4,2.25
+"211","U.K.",2017,"Malaysia",73,3,3
+"212","U.K.",2017,"Malaysia",72,3,3.25
+"213","U.S.A.",2016,"Brazil",80,3,2.75
+"214","U.S.A.",2016,"Dominican Republic",70,3,2.75
+"215","U.S.A.",2016,"Ecuador",70,3,2.75
+"216","U.S.A.",2016,"Ecuador",90,3,2.75
+"217","Belgium",2010,"Costa Rica",64,4,2.75
+"218","Belgium",2010,"Papua New Guinea",64,4,2.75
+"219","Belgium",2010,"Peru",64,4,2.75
+"220","Belgium",2010,"Ecuador",71,4,3.5
+"221","U.S.A.",2016,"Bolivia",70,3,3.25
+"222","U.S.A.",2016,"Tanzania",70,3,3.5
+"223","U.S.A.",2016,"Dominican Republic",70,2,3.5
+"224","Vietnam",2018,"Vietnam",75,3,3.25
+"225","Vietnam",2021,"Vietnam",70,3,3.75
+"226","Germany",2016,"Belize",83,3,2.75
+"227","Germany",2016,"Belize",78,3,3
+"228","Germany",2016,"Belize",83,3,3.5
+"229","Singapore",2018,"Vietnam",72,4,3
+"230","Singapore",2018,"India",72,4,3
+"231","Singapore",2018,"Malaysia",72,4,3
+"232","Belgium",2011,"Madagascar",72,3,3.75
+"233","Belgium",2011,"Indonesia",72,3,4
+"234","Belgium",2013,"Cuba",74,3,3.5
+"235","Belgium",2013,"Venezuela",74,3,3.5
+"236","Belgium",2013,"Venezuela",74,3,3.5
+"237","Belgium",2013,"Ecuador",73,3,4
+"238","France",2012,"Blend",55,5,2.75
+"239","Switzerland",2010,"Venezuela",70,3,3.25
+"240","Switzerland",2010,"Venezuela",74,3,3.25
+"241","Switzerland",2010,"Indonesia",64,3,3.5
+"242","Switzerland",2010,"Venezuela",72,3,3.5
+"243","Switzerland",2011,"Madagascar",64,3,3
+"244","Switzerland",2011,"Venezuela",88,3,3
+"245","Switzerland",2011,"Venezuela",72,3,3.5
+"246","Switzerland",2011,"Ecuador",72,3,4
+"247","U.S.A.",2015,"Nicaragua",76,2,2.5
+"248","U.S.A.",2015,"Costa Rica",76,2,2.5
+"249","U.S.A.",2015,"Costa Rica",78,4,2.5
+"250","U.S.A.",2015,"Belize",86,4,3.25
+"251","Venezuela",2018,"Venezuela",70,4,3
+"252","Venezuela",2018,"Venezuela",70,4,3
+"253","Venezuela",2018,"Venezuela",70,4,3.5
+"254","U.S.A.",2008,"Madagascar",71,2,3
+"255","U.S.A.",2008,"Ghana",70,2,3
+"256","U.S.A.",2008,"Panama",75,2,3.5
+"257","U.S.A.",2008,"Dominican Republic",68,2,3.75
+"258","U.S.A.",2009,"Dominican Republic",75,2,3
+"259","U.S.A.",2009,"Madagascar",75,2,3.25
+"260","U.S.A.",2009,"Dominican Republic",65,2,3.5
+"261","U.S.A.",2009,"Madagascar",65,2,3.5
+"262","U.S.A.",2010,"Indonesia",65,2,2.75
+"263","U.S.A.",2010,"Madagascar",70,2,3
+"264","U.S.A.",2010,"Venezuela",78,2,3
+"265","U.S.A.",2010,"Indonesia",75,2,3.25
+"266","U.S.A.",2010,"Blend",70,2,3.75
+"267","U.S.A.",2012,"Ghana",72,3,3.5
+"268","U.S.A.",2018,"Haiti",70,2,3
+"269","U.S.A.",2018,"Guatemala",70,2,3
+"270","U.S.A.",2018,"Dominican Republic",70,2,3.25
+"271","U.S.A.",2019,"Belize",70,2,2.75
+"272","U.S.A.",2008,"Dominican Republic",70,3,2.75
+"273","U.S.A.",2008,"Venezuela",70,3,2.75
+"274","U.S.A.",2008,"Nicaragua",70,3,3
+"275","U.S.A.",2021,"Dominican Republic",70,4,3.75
+"276","U.K.",2014,"Jamaica",70,4,2.75
+"277","U.S.A.",2021,"Colombia",72,3,3.25
+"278","U.S.A.",2021,"Belize",72,3,3.25
+"279","Spain",2009,"Blend",72,4,2.75
+"280","Spain",2013,"Congo",82,4,3.5
+"281","U.S.A.",2012,"Guatemala",70,3,3.5
+"282","U.S.A.",2012,"Madagascar",70,3,3.75
+"283","U.S.A.",2016,"Guatemala",75,2,2.75
+"284","U.S.A.",2016,"Dominican Republic",75,2,3
+"285","U.S.A.",2016,"Madagascar",82,2,3.5
+"286","U.S.A.",2016,"Tanzania",75,2,3.5
+"287","U.S.A.",2017,"Belize",70,3,2.75
+"288","Malaysia",2019,"Malaysia",68,2,2.5
+"289","Malaysia",2019,"Malaysia",72,2,2.75
+"290","Malaysia",2019,"Malaysia",74,2,3.25
+"291","France",2006,"Sri Lanka",75,3,3
+"292","France",2006,"Blend",75,3,3.75
+"293","France",2006,"Venezuela",75,3,3.75
+"294","France",2006,"Madagascar",75,3,3.75
+"295","France",2006,"Venezuela",75,3,4
+"296","France",2006,"Venezuela",75,3,4
+"297","France",2007,"Ecuador",75,3,2.5
+"298","France",2008,"Venezuela",75,3,4
+"299","France",2009,"Peru",75,3,2.75
+"300","France",2009,"Ivory Coast",75,3,3
+"301","France",2009,"Mexico",75,3,3
+"302","France",2009,"Mexico",75,3,3
+"303","France",2011,"Jamaica",75,3,3.25
+"304","France",2011,"Cuba",75,3,3.5
+"305","France",2011,"Peru",75,3,3.5
+"306","France",2011,"Peru",75,3,3.5
+"307","France",2011,"Brazil",75,3,3.5
+"308","France",2011,"Brazil",75,3,3.75
+"309","France",2011,"Haiti",75,3,4
+"310","France",2011,"Madagascar",75,3,4
+"311","France",2013,"Gabon",75,3,3.25
+"312","France",2013,"Brazil",75,3,3.5
+"313","France",2014,"Dominican Republic",75,3,3.25
+"314","France",2014,"Blend",65,3,3.75
+"315","France",2014,"Brazil",75,3,4
+"316","France",2016,"Mexico",75,3,3.5
+"317","France",2018,"Peru",75,3,4
+"318","France",2018,"Blend",75,3,4
+"319","France",2021,"Nicaragua",75,3,3.75
+"320","Ecuador",2009,"Ecuador",77,2,3.25
+"321","U.S.A.",2018,"Ecuador",75,3,3.5
+"322","U.S.A.",2018,"Peru",70,3,3.75
+"323","U.S.A.",2018,"Bolivia",70,3,4
+"324","U.S.A.",2021,"Tanzania",62,3,3
+"325","U.S.A.",2013,"Dominican Republic",72,5,3
+"326","U.S.A.",2013,"Ecuador",70,5,3.25
+"327","U.S.A.",2013,"Ghana",75,5,3.5
+"328","U.S.A.",2013,"Venezuela",85,5,3.5
+"329","U.S.A.",2014,"Belize",70,3,3.75
+"330","U.S.A.",2014,"Venezuela",70,3,4
+"331","U.S.A.",2015,"Dominican Republic",68,3,3.75
+"332","U.S.A.",2016,"Venezuela",70,3,3.5
+"333","U.S.A.",2016,"Nicaragua",70,3,3.75
+"334","U.S.A.",2017,"Dominican Republic",70,3,3.25
+"335","U.S.A.",2017,"Ecuador",75,3,3.75
+"336","U.S.A.",2015,"Madagascar",80,3,2.75
+"337","U.S.A.",2015,"Dominican Republic",60,3,3
+"338","U.S.A.",2015,"Dominican Republic",80,3,3.25
+"339","U.S.A.",2015,"Belize",80,3,3.25
+"340","U.S.A.",2015,"Madagascar",60,3,3.25
+"341","U.S.A.",2015,"Guatemala",70,2,3.5
+"342","U.S.A.",2013,"Jamaica",70,4,3
+"343","Australia",2014,"Trinidad",68,3,2.75
+"344","Australia",2014,"Madagascar",72,3,3
+"345","Australia",2014,"Dominican Republic",70,3,3.5
+"346","Australia",2014,"Ecuador",72,3,3.5
+"347","Russia",2015,"Ecuador",70,2,3.25
+"348","U.S.A.",2013,"Dominican Republic",68,3,2.75
+"349","U.K.",2018,"Bolivia",70,3,2.5
+"350","U.K.",2018,"Guatemala",70,3,3
+"351","U.S.A.",2014,"Ecuador",60,3,2.5
+"352","U.S.A.",2014,"Trinidad",72,3,3.25
+"353","U.S.A.",2014,"Belize",72,3,3.25
+"354","U.S.A.",2014,"Blend",72,3,3.25
+"355","U.S.A.",2014,"Ecuador",72,3,3.5
+"356","South Korea",2019,"Ecuador",70,2,3
+"357","Taiwan",2019,"Taiwan",70,2,3.25
+"358","Taiwan",2019,"Philippines",70,2,3.5
+"359","Canada",2019,"Guatemala",70,4,3
+"360","Canada",2019,"Guatemala",70,4,3.5
+"361","Canada",2019,"Bolivia",70,4,3.75
+"362","Puerto Rico",2015,"Puerto Rico",70,2,2.5
+"363","U.S.A.",2010,"Venezuela",75,2,2.25
+"364","U.S.A.",2010,"Dominican Republic",75,2,2.5
+"365","U.S.A.",2010,"Dominican Republic",75,2,2.75
+"366","U.S.A.",2014,"Peru",75,2,2.5
+"367","France",2007,"Venezuela",72,5,2
+"368","France",2007,"Mexico",66,5,3
+"369","France",2008,"Tanzania",75,5,2
+"370","France",2010,"Dominican Republic",70,5,3
+"371","France",2016,"Haiti",65,5,3.5
+"372","Switzerland",2018,"Colombia",72,2,2.5
+"373","Switzerland",2018,"Colombia",72,2,3
+"374","Switzerland",2018,"Colombia",72,2,3.75
+"375","Venezuela",2014,"Venezuela",75,2,2.5
+"376","Venezuela",2014,"Venezuela",74,2,3.25
+"377","Venezuela",2014,"Venezuela",75,2,3.5
+"378","Venezuela",2014,"Venezuela",70,2,3.75
+"379","Venezuela",2015,"Venezuela",74,2,3.25
+"380","Venezuela",2015,"Venezuela",75,2,3.25
+"381","Venezuela",2015,"Venezuela",77,2,3.5
+"382","Venezuela",2018,"Venezuela",75,2,2.75
+"383","Venezuela",2019,"Venezuela",75,2,2.5
+"384","Venezuela",2019,"Venezuela",70,2,3
+"385","U.S.A.",2018,"Venezuela",70,2,3
+"386","Colombia",2014,"Colombia",69,4,2.75
+"387","Colombia",2014,"Colombia",70,4,3.25
+"388","Colombia",2014,"Colombia",64,4,3.5
+"389","Colombia",2014,"Colombia",70,4,3.5
+"390","Colombia",2015,"Colombia",72,3,3.75
+"391","Colombia",2016,"Colombia",71,3,3.75
+"392","Colombia",2016,"Colombia",74,3,3.75
+"393","U.S.A.",2016,"Honduras",70,4,3.5
+"394","U.S.A.",2011,"Dominican Republic",72,2,3
+"395","U.S.A.",2011,"Dominican Republic",65,2,3.25
+"396","U.S.A.",2011,"Dominican Republic",66,2,3.75
+"397","U.S.A.",2012,"Dominican Republic",72,2,3.75
+"398","Spain",2009,"Mexico",70,4,4
+"399","Spain",2009,"Mexico",70,4,4
+"400","Spain",2010,"Grenada",71,4,3.25
+"401","Spain",2010,"Madagascar",71,4,3.5
+"402","Spain",2010,"Venezuela",71,4,3.5
+"403","Spain",2010,"Venezuela",77,4,3.5
+"404","Spain",2010,"Ecuador",71,4,3.75
+"405","Spain",2010,"Papua New Guinea",71,4,4
+"406","Spain",2016,"Congo",70,4,3.5
+"407","U.S.A.",2020,"Dominican Republic",72,4,2.75
+"408","U.S.A.",2020,"Peru",72,4,2.75
+"409","U.S.A.",2020,"Ecuador",72,4,3
+"410","Japan",2015,"Madagascar",70,2,3
+"411","Japan",2015,"Peru",70,2,3.25
+"412","Japan",2015,"Vietnam",70,2,3.5
+"413","Peru",2021,"Peru",70,2,3.5
+"414","Peru",2021,"Peru",70,2,3.5
+"415","Peru",2021,"Peru",80,2,3.5
+"416","Peru",2021,"Peru",70,2,4
+"417","Ecuador",2008,"Ecuador",91,4,1.5
+"418","Ecuador",2008,"Ecuador",82,4,2.5
+"419","Ecuador",2008,"Ecuador",63,4,3.5
+"420","Ecuador",2008,"Ecuador",71,4,3.5
+"421","Italy",2011,"Sao Tome",78,2,2.25
+"422","Italy",2011,"Trinidad",70,2,2.5
+"423","Italy",2012,"Venezuela",80,2,3
+"424","Italy",2013,"Ecuador",100,1,3.5
+"425","Italy",2014,"Cuba",75,2,2.5
+"426","Italy",2014,"Dominican Republic",72,2,3
+"427","Italy",2014,"Blend",70,2,3.5
+"428","U.S.A.",2016,"Venezuela",75,3,2.5
+"429","U.S.A.",2016,"Tanzania",73,3,2.75
+"430","U.S.A.",2016,"Venezuela",70,3,3
+"431","U.S.A.",2016,"Bolivia",75,3,3
+"432","U.S.A.",2016,"Brazil",70,3,3.25
+"433","Colombia",2021,"Colombia",70,4,3.25
+"434","Colombia",2021,"Colombia",70,4,3.25
+"435","Colombia",2021,"Colombia",70,4,3.5
+"436","Colombia",2021,"Colombia",70,4,3.75
+"437","Ecuador",2008,"Ecuador",77,4,2
+"438","Ecuador",2008,"Ecuador",77,4,2.5
+"439","Ecuador",2008,"Ecuador",77,4,2.75
+"440","Ecuador",2008,"Ecuador",55,4,3
+"441","Ecuador",2008,"Ecuador",55,4,3.25
+"442","Ecuador",2008,"Ecuador",55,4,3.5
+"443","New Zealand",2014,"Papua New Guinea",70,3,3.5
+"444","New Zealand",2014,"Papua New Guinea",70,3,3.75
+"445","U.S.A.",2021,"Nicaragua",70,3,3
+"446","U.S.A.",2021,"Tanzania",70,3,3.25
+"447","U.S.A.",2021,"Peru",70,3,3.25
+"448","U.S.A.",2021,"Mexico",70,3,3.25
+"449","Costa Rica",2012,"Costa Rica",80,2,2.75
+"450","Costa Rica",2012,"Costa Rica",72,2,3
+"451","Costa Rica",2015,"Costa Rica",72,2,3.25
+"452","Costa Rica",2015,"Guatemala",72,3,3.5
+"453","Costa Rica",2015,"Costa Rica",72,2,3.5
+"454","Colombia",2016,"Colombia",65,3,3
+"455","Colombia",2016,"Colombia",65,3,3.25
+"456","Colombia",2016,"Colombia",65,3,3.25
+"457","Colombia",2016,"Colombia",65,3,3.5
+"458","Colombia",2016,"Colombia",65,3,3.5
+"459","U.S.A.",2018,"Blend",75,2,2
+"460","Brazil",2019,"Brazil",71,2,3
+"461","Brazil",2019,"Brazil",65,2,3.25
+"462","U.S.A.",2013,"Peru",70,3,2.5
+"463","U.S.A.",2013,"Peru",70,3,2.75
+"464","U.S.A.",2013,"Bolivia",70,3,3
+"465","U.S.A.",2013,"Venezuela",72,3,3
+"466","U.S.A.",2013,"Venezuela",70,3,3.25
+"467","U.S.A.",2013,"Nicaragua",72,3,3.25
+"468","U.S.A.",2013,"Dominican Republic",73,2,3.5
+"469","U.S.A.",2014,"Dominican Republic",70,3,2.75
+"470","U.S.A.",2014,"Colombia",72,3,3.5
+"471","U.S.A.",2014,"Colombia",76,3,3.5
+"472","U.S.A.",2015,"Honduras",72,3,3.5
+"473","U.S.A.",2015,"Venezuela",72,3,3.5
+"474","U.S.A.",2015,"Dominican Republic",70,3,3.75
+"475","U.S.A.",2016,"Belize",72,3,4
+"476","U.S.A.",2017,"Venezuela",70,2,3.25
+"477","U.S.A.",2019,"Puerto Rico",70,3,3.5
+"478","U.S.A.",2019,"Mexico",70,3,3.75
+"479","U.S.A.",2021,"Peru",70,3,4
+"480","U.S.A.",2021,"Venezuela",72,3,4
+"481","U.S.A.",2014,"Ecuador",70,3,2.5
+"482","U.S.A.",2014,"Peru",70,3,2.75
+"483","U.S.A.",2014,"Venezuela",70,3,2.75
+"484","U.S.A.",2014,"Bolivia",70,3,3
+"485","Canada",2014,"Uganda",70,3,2.75
+"486","Canada",2021,"Madagascar",70,3,3
+"487","Canada",2021,"Belize",70,3,3
+"488","Canada",2021,"Peru",72,3,3.25
+"489","France",2017,"Bolivia",74,2,3
+"490","France",2018,"Venezuela",68,3,3.5
+"491","U.S.A.",2016,"Belize",70,3,3.25
+"492","Ecuador",2008,"Ecuador",75,3,3
+"493","Ecuador",2010,"Ecuador",55,3,2.75
+"494","U.S.A.",2014,"Costa Rica",70,3,3.5
+"495","U.S.A.",2018,"Peru",72,3,3
+"496","U.S.A.",2019,"Ecuador",72,3,3.5
+"497","U.S.A.",2021,"Colombia",83,3,3.25
+"498","U.S.A.",2021,"Dominican Republic",69,3,3.25
+"499","U.K.",2015,"Ecuador",70,3,3.25
+"500","Germany",2014,"Belize",75,2,3
+"501","Germany",2014,"Belize",82,2,3.25
+"502","South Korea",2015,"Vietnam",70,2,2.75
+"503","South Korea",2015,"Malaysia",70,2,3.5
+"504","Hungary",2019,"Nicaragua",72,3,2.5
+"505","Hungary",2019,"Dominican Republic",71,3,3.25
+"506","U.K.",2015,"Peru",65,2,2.5
+"507","U.K.",2015,"Dominican Republic",80,2,2.5
+"508","U.K.",2015,"Peru",65,2,2.75
+"509","U.K.",2019,"Madagascar",74,2,3
+"510","U.S.A.",2011,"Madagascar",70,2,3.75
+"511","U.S.A.",2011,"Venezuela",68,2,3.75
+"512","U.S.A.",2016,"Peru",90,2,2.5
+"513","U.S.A.",2016,"Blend",80,2,2.5
+"514","U.S.A.",2016,"Bolivia",70,2,2.5
+"515","U.S.A.",2016,"Uganda",70,2,2.75
+"516","U.S.A.",2016,"Nicaragua",80,2,2.75
+"517","U.S.A.",2016,"Dominican Republic",60,2,3
+"518","U.S.A.",2016,"Dominican Republic",75,2,3
+"519","U.S.A.",2016,"Venezuela",80,2,3
+"520","U.S.A.",2016,"Ecuador",70,2,3.25
+"521","U.S.A.",2014,"Peru",74,3,2.75
+"522","Amsterdam",2015,"Dominican Republic",75,3,3.25
+"523","Amsterdam",2015,"Congo",68,3,3.5
+"524","Amsterdam",2015,"Peru",80,3,3.75
+"525","Scotland",2012,"Ecuador",82,3,2.5
+"526","Scotland",2012,"Peru",68,3,2.75
+"527","Scotland",2012,"Madagascar",72,3,3.25
+"528","Scotland",2013,"Peru",70,2,3.75
+"529","Scotland",2015,"Peru",69,3,3.75
+"530","Scotland",2015,"Venezuela",80,2,3.75
+"531","Scotland",2021,"Venezuela",70,3,2.75
+"532","U.S.A.",2018,"Dominican Republic",72,3,3.25
+"533","Belgium",2019,"India",70,3,3
+"534","Canada",2014,"Mexico",70,4,2.5
+"535","U.S.A.",2018,"India",63,3,2.5
+"536","U.S.A.",2018,"Guatemala",76,2,2.75
+"537","U.S.A.",2018,"Peru",70,2,2.75
+"538","Canada",2016,"Mexico",75,3,3.25
+"539","U.S.A.",2021,"Guatemala",70,2,3.25
+"540","U.S.A.",2021,"Dominican Republic",73,2,3.25
+"541","U.S.A.",2021,"Belize",70,2,3.5
+"542","Spain",2007,"Ecuador",71,4,2.5
+"543","Spain",2007,"Grenada",71,4,2.5
+"544","Spain",2007,"Blend",70,4,3
+"545","Spain",2008,"Venezuela",71,4,3.5
+"546","Spain",2009,"Blend",60,4,3.25
+"547","Spain",2009,"Blend",75,4,3.25
+"548","Spain",2010,"Mexico",71,4,3.25
+"549","Spain",2010,"Madagascar",71,4,3.5
+"550","U.S.A.",2015,"Mexico",65,2,2.5
+"551","U.S.A.",2015,"Mexico",75,2,2.5
+"552","Canada",2009,"Venezuela",80,4,2.5
+"553","Canada",2009,"Mexico",70,4,2.75
+"554","Canada",2009,"Brazil",70,4,3
+"555","Canada",2009,"Brazil",80,4,3
+"556","Canada",2009,"Venezuela",70,4,3
+"557","U.S.A.",2020,"Guatemala",70,2,3.5
+"558","U.S.A.",2020,"Venezuela",75,2,3.75
+"559","U.S.A.",2020,"Belize",70,2,3.75
+"560","U.S.A.",2020,"Madagascar",67,2,4
+"561","U.S.A.",2021,"Tanzania",75,2,3.5
+"562","U.S.A.",2021,"Bolivia",75,2,3.75
+"563","Martinique",2013,"Martinique",42,4,2.75
+"564","U.S.A.",2018,"Peru",70,2,2.75
+"565","U.S.A.",2018,"Peru",75,3,3.75
+"566","U.S.A.",2019,"Vietnam",72,3,3
+"567","U.S.A.",2019,"Costa Rica",70,3,3.25
+"568","U.S.A.",2019,"Ecuador",73,3,3.5
+"569","U.S.A.",2019,"Tanzania",72,3,3.5
+"570","U.S.A.",2019,"Dominican Republic",72,3,3.75
+"571","U.S.A.",2019,"Brazil",70,3,4
+"572","U.S.A.",2009,"Venezuela",61,5,3
+"573","U.S.A.",2010,"Venezuela",77,3,2.75
+"574","Sao Tome",2008,"Blend",80,3,3
+"575","Sao Tome",2008,"Blend",75,3,3.75
+"576","Sao Tome",2010,"Blend",73.5,2,3.75
+"577","U.S.A.",2021,"Dominican Republic",70,3,3.5
+"578","U.S.A.",2021,"Haiti",79,3,3.5
+"579","U.S.A.",2015,"Ecuador",73,2,3.5
+"580","Canada",2020,"Peru",70,3,3.5
+"581","St. Lucia",2019,"St. Lucia",70,4,2.25
+"582","U.S.A.",2021,"Peru",68,3,3
+"583","U.S.A.",2021,"Madagascar",77,2,3.25
+"584","U.S.A.",2021,"Colombia",70,3,3.25
+"585","U.S.A.",2015,"Ecuador",76,2,3.5
+"586","U.S.A.",2016,"Vietnam",78,2,2.75
+"587","U.S.A.",2021,"Philippines",70,3,2.5
+"588","U.S.A.",2021,"Ivory Coast",70,3,2.5
+"589","U.S.A.",2021,"Peru",68,3,3.25
+"590","U.S.A.",2021,"Tanzania",75,3,3.5
+"591","Germany",2007,"Madagascar",72,3,3
+"592","Germany",2008,"Mexico",72,3,3
+"593","Germany",2008,"Venezuela",72,3,3
+"594","Germany",2009,"Peru",72,3,3
+"595","Germany",2009,"Peru",62,3,3.25
+"596","Germany",2009,"Venezuela",70,3,3.5
+"597","Germany",2009,"Venezuela",70,3,3.75
+"598","Germany",2010,"Ecuador",72,3,2.5
+"599","Germany",2010,"Venezuela",70,3,3
+"600","Germany",2010,"Trinidad",72,3,3
+"601","Germany",2010,"Grenada",72,3,3.25
+"602","Germany",2010,"Jamaica",72,3,3.25
+"603","Germany",2010,"Venezuela",72,3,3.25
+"604","Germany",2012,"Ghana",85,3,3.5
+"605","Germany",2012,"Madagascar",70,3,3.5
+"606","Germany",2012,"Blend",72,3,3.75
+"607","Germany",2013,"Ecuador",65,4,3.25
+"608","Germany",2017,"Ghana",75,3,3.75
+"609","Australia",2012,"Tanzania",75,3,3.25
+"610","Australia",2012,"Brazil",65,3,3.25
+"611","Australia",2012,"Fiji",67,3,3.25
+"612","Australia",2012,"Vanuatu",64,3,3.25
+"613","Australia",2012,"Papua New Guinea",75,3,3.5
+"614","Australia",2014,"Papua New Guinea",70,3,2.5
+"615","Australia",2014,"Vanuatu",83,3,2.75
+"616","U.S.A.",2016,"Ecuador",85,3,3.25
+"617","U.S.A.",2016,"Ecuador",73,3,3.75
+"618","U.S.A.",2020,"Dominican Republic",70,2,3.25
+"619","U.S.A.",2020,"Colombia",70,2,3.25
+"620","U.S.A.",2020,"Ecuador",70,2,3.25
+"621","U.S.A.",2020,"Honduras",70,2,3.5
+"622","U.S.A.",2021,"India",70,2,3.75
+"623","U.S.A.",2020,"Guatemala",70,3,3.25
+"624","U.S.A.",2020,"Haiti",70,3,3.5
+"625","U.S.A.",2020,"Belize",75,3,3.5
+"626","U.S.A.",2020,"Mexico",70,3,3.5
+"627","Mexico",2021,"Mexico",73,2,3.75
+"628","Australia",2011,"Australia",70,5,3.25
+"629","Australia",2015,"Australia",70,3,2.75
+"630","U.S.A.",2017,"Dominican Republic",72,2,2.75
+"631","U.K.",2015,"Grenada",70,3,2.25
+"632","U.K.",2015,"Nicaragua",70,3,2.75
+"633","U.K.",2015,"Trinidad",70,3,3
+"634","U.K.",2015,"Ecuador",70,3,3.5
+"635","U.K.",2018,"Blend",65,4,2.5
+"636","U.S.A.",2021,"Puerto Rico",68,4,2.5
+"637","U.S.A.",2021,"India",72,4,3
+"638","U.S.A.",2021,"Peru",72,4,3.5
+"639","U.S.A.",2012,"Costa Rica",70,2,3
+"640","U.S.A.",2012,"Colombia",70,2,3.25
+"641","U.S.A.",2012,"Dominican Republic",70,2,3.75
+"642","U.S.A.",2013,"Venezuela",70,2,2.75
+"643","U.S.A.",2013,"Venezuela",70,2,3.25
+"644","U.S.A.",2013,"Venezuela",70,2,3.5
+"645","U.S.A.",2013,"Papua New Guinea",70,2,3.5
+"646","U.S.A.",2014,"Liberia",70,2,2.75
+"647","U.S.A.",2014,"Belize",70,2,3.5
+"648","U.S.A.",2014,"Ecuador",70,2,3.5
+"649","U.S.A.",2014,"Dominican Republic",70,2,3.75
+"650","U.S.A.",2015,"Belize",70,2,3
+"651","U.S.A.",2016,"Dominican Republic",70,2,3.75
+"652","U.S.A.",2017,"Costa Rica",70,2,3
+"653","U.S.A.",2018,"Sierra Leone",70,2,3
+"654","U.S.A.",2018,"Honduras",70,2,3.25
+"655","U.S.A.",2018,"India",70,2,3.5
+"656","U.S.A.",2019,"Vietnam",70,2,3.5
+"657","U.S.A.",2021,"Guatemala",70,2,2.75
+"658","U.S.A.",2021,"India",70,2,2.75
+"659","U.S.A.",2021,"Peru",70,2,3.25
+"660","U.S.A.",2021,"India",70,2,3.25
+"661","U.S.A.",2021,"Tanzania",70,2,3.5
+"662","U.S.A.",2021,"Dominican Republic",70,2,3.5
+"663","U.S.A.",2021,"Brazil",70,2,4
+"664","U.S.A.",2011,"Dominican Republic",70,2,3.25
+"665","U.S.A.",2011,"Madagascar",70,2,3.25
+"666","U.S.A.",2011,"Tanzania",70,2,3.25
+"667","U.S.A.",2021,"Dominican Republic",70,2,3
+"668","Guatemala",2009,"Guatemala",75,4,3
+"669","Guatemala",2009,"Guatemala",60,4,3.25
+"670","Guatemala",2011,"Guatemala",60,4,3.5
+"671","Guatemala",2012,"Venezuela",75,4,3
+"672","Guatemala",2012,"Guatemala",70,2,3.25
+"673","Guatemala",2012,"Guatemala",70,2,3.75
+"674","Guatemala",2012,"Madagascar",70,2,3.75
+"675","Guatemala",2012,"Guatemala",70,2,4
+"676","Guatemala",2014,"Guatemala",82,4,3.25
+"677","U.S.A.",2016,"Venezuela",72,2,2.75
+"678","U.S.A.",2016,"Vietnam",72,2,3
+"679","U.S.A.",2016,"Blend",70,2,3.25
+"680","Belgium",2019,"Peru",72,4,3
+"681","Belgium",2019,"Vietnam",70,4,3.25
+"682","U.S.A.",2015,"Madagascar",70,3,3
+"683","U.S.A.",2015,"Tanzania",70,3,3
+"684","U.S.A.",2015,"Venezuela",70,3,3.25
+"685","U.S.A.",2015,"Ecuador",70,3,3.25
+"686","U.S.A.",2016,"Bolivia",75,3,3.25
+"687","U.S.A.",2012,"Blend",58,4,3.25
+"688","U.S.A.",2013,"Ghana",70,4,2.5
+"689","U.S.A.",2013,"Dominican Republic",70,4,2.75
+"690","U.S.A.",2013,"Venezuela",70,4,2.75
+"691","Brazil",2015,"Brazil",72,3,3.5
+"692","Brazil",2015,"Brazil",65,3,3.5
+"693","South Africa",2016,"Uganda",70,3,2.5
+"694","South Africa",2016,"Madagascar",70,3,3
+"695","U.S.A.",2007,"Madagascar",66,4,2.5
+"696","U.S.A.",2007,"Costa Rica",64,4,3
+"697","U.S.A.",2007,"Ecuador",71,4,3
+"698","U.S.A.",2007,"Ghana",60,4,3
+"699","U.S.A.",2007,"Papua New Guinea",64,4,3
+"700","U.S.A.",2007,"Peru",64,4,3
+"701","France",2008,"Venezuela",66,4,3.75
+"702","France",2009,"Papua New Guinea",64,4,3
+"703","Dominican Republic",2018,"Dominican Republic",70,2,2.5
+"704","Dominican Republic",2018,"Dominican Republic",70,2,2.5
+"705","Dominican Republic",2018,"Dominican Republic",80,2,3
+"706","Canada",2016,"Tanzania",72,2,2.5
+"707","Canada",2019,"Guatemala",72,2,3
+"708","U.S.A.",2007,"Costa Rica",77,2,3.5
+"709","U.S.A.",2007,"Dominican Republic",77,2,3.5
+"710","U.S.A.",2008,"Bolivia",80,2,2.75
+"711","U.S.A.",2011,"Madagascar",80,2,2.75
+"712","U.S.A.",2011,"Venezuela",75,2,2.75
+"713","U.S.A.",2011,"Dominican Republic",74,2,3
+"714","U.S.A.",2011,"Ecuador",70,2,3.25
+"715","U.S.A.",2012,"Bolivia",75,2,2.75
+"716","U.S.A.",2013,"Ecuador",70,2,3.25
+"717","U.S.A.",2013,"Ecuador",76,2,3.5
+"718","U.S.A.",2014,"Dominican Republic",74,2,3.5
+"719","U.S.A.",2015,"Bolivia",70,2,3.75
+"720","U.S.A.",2016,"Vietnam",78,2,3.5
+"721","U.S.A.",2017,"Guatemala",70,2,3.75
+"722","U.S.A.",2017,"Brazil",75,2,3.75
+"723","U.S.A.",2017,"Solomon Islands",72,2,4
+"724","U.S.A.",2018,"Fiji",80,2,3.75
+"725","U.S.A.",2019,"Madagascar",72,2,3.75
+"726","U.S.A.",2019,"Belize",72,2,4
+"727","U.S.A.",2020,"Blend",73,2,3.5
+"728","U.S.A.",2021,"Jamaica",75,2,3.75
+"729","U.S.A.",2021,"Mexico",72,2,4
+"730","Sao Tome & Principe",2019,"Sao Tome",75,4,2.5
+"731","Sao Tome & Principe",2019,"Sao Tome",70,4,2.75
+"732","Sao Tome & Principe",2019,"Sao Tome",65,4,3
+"733","Sao Tome & Principe",2019,"Sao Tome",75,4,3
+"734","U.K.",2014,"Panama",72,3,3.25
+"735","U.K.",2014,"Venezuela",72,3,3.25
+"736","U.K.",2014,"Nicaragua",72,3,3.5
+"737","U.K.",2015,"Venezuela",85,3,3
+"738","Belgium",2006,"Blend",70,3,1.5
+"739","Belgium",2008,"Blend",88,3,3
+"740","Italy",2006,"Venezuela",70,2,3
+"741","Italy",2006,"Peru",70,2,3.25
+"742","Italy",2006,"Venezuela",70,2,3.5
+"743","Italy",2007,"Venezuela",75,2,3.25
+"744","Italy",2007,"Venezuela",60,2,3.25
+"745","Italy",2007,"Madagascar",70,2,3.5
+"746","Italy",2007,"Madagascar",70,2,3.5
+"747","Italy",2007,"Indonesia",70,2,3.75
+"748","Italy",2007,"Venezuela",70,2,4
+"749","Italy",2007,"Ecuador",70,2,4
+"750","Italy",2007,"Venezuela",70,2,4
+"751","Italy",2008,"Venezuela",70,2,3
+"752","Italy",2008,"Colombia",70,2,3
+"753","Italy",2008,"Blend",78,2,3.5
+"754","Italy",2008,"Blend",70,2,3.75
+"755","Italy",2010,"Venezuela",70,2,3
+"756","Italy",2011,"Venezuela",70,2,3.5
+"757","Italy",2012,"Tanzania",70,2,3.5
+"758","Italy",2012,"Venezuela",70,2,3.75
+"759","Italy",2015,"Ecuador",70,2,3.75
+"760","Italy",2015,"Venezuela",70,2,3.75
+"761","Italy",2018,"Tanzania",70,2,4
+"762","U.K.",2015,"Venezuela",70,3,2.5
+"763","U.K.",2015,"Colombia",80,3,2.75
+"764","U.K.",2015,"Madagascar",77,3,2.75
+"765","U.K.",2016,"Grenada",75,3,2.75
+"766","U.K.",2018,"Philippines",71.5,3,2.75
+"767","U.K.",2018,"Guatemala",72,3,3.5
+"768","U.K.",2018,"Peru",80,2,3.5
+"769","U.K.",2021,"Belize",78,3,3.25
+"770","U.S.A.",2019,"Dominican Republic",75,2,2.5
+"771","U.S.A.",2019,"Tanzania",70,2,2.75
+"772","U.S.A.",2019,"Dominican Republic",75,2,3
+"773","U.K.",2010,"Ecuador",70,3,2.5
+"774","U.K.",2010,"Panama",70,3,3.5
+"775","U.K.",2010,"Ecuador",72,3,3.75
+"776","U.K.",2010,"Peru",70,3,3.75
+"777","U.K.",2011,"Panama",72,3,3
+"778","U.K.",2011,"Nicaragua",71,3,3.25
+"779","U.K.",2011,"Dominican Republic",65,3,3.5
+"780","U.K.",2011,"Venezuela",71,3,3.5
+"781","U.K.",2011,"Honduras",72,3,3.75
+"782","U.K.",2012,"Venezuela",72,3,3.75
+"783","U.K.",2014,"Nicaragua",70,4,3.5
+"784","U.K.",2014,"Nicaragua",76,4,3.75
+"785","U.K.",2015,"Guatemala",70,4,4
+"786","U.K.",2017,"Nigeria",70,4,2.75
+"787","U.K.",2018,"Guatemala",80,4,3.25
+"788","U.K.",2019,"Philippines",70,4,3.5
+"789","U.K.",2021,"Nicaragua",70,4,3.5
+"790","U.S.A.",2015,"Dominican Republic",70,2,3.25
+"791","U.S.A.",2015,"Dominican Republic",70,3,3.25
+"792","U.S.A.",2015,"Venezuela",70,3,3.25
+"793","U.S.A.",2015,"Peru",70,3,3.5
+"794","U.S.A.",2015,"Venezuela",70,3,3.5
+"795","U.S.A.",2015,"Ecuador",70,3,4
+"796","U.S.A.",2018,"Peru",70,3,4
+"797","Canada",2014,"Peru",70,3,3.25
+"798","Canada",2014,"Madagascar",70,3,3.5
+"799","Canada",2014,"Dominican Republic",70,3,3.75
+"800","Canada",2016,"Colombia",70,3,3.25
+"801","Canada",2016,"Colombia",70,3,3.25
+"802","U.S.A.",2012,"Peru",72,3,2.75
+"803","U.S.A.",2019,"Peru",80,2,3.5
+"804","Germany",2016,"Venezuela",68,2,3
+"805","U.S.A.",2020,"Madagascar",70,2,3
+"806","U.S.A.",2020,"Colombia",70,2,3
+"807","Bolivia",2008,"Bolivia",71,4,2.75
+"808","Bolivia",2011,"Bolivia",75,4,3.75
+"809","Venezuela",2006,"Venezuela",70,5,2.75
+"810","Venezuela",2008,"Venezuela",74,5,2.5
+"811","Venezuela",2008,"Venezuela",58,5,2.5
+"812","Venezuela",2008,"Venezuela",61,5,3
+"813","Venezuela",2009,"Venezuela",60.5,5,2.75
+"814","Venezuela",2009,"Venezuela",70,5,3
+"815","Venezuela",2015,"Venezuela",70,5,3.75
+"816","U.S.A.",2019,"Guatemala",70,3,3.5
+"817","St. Lucia",2013,"St. Lucia",60,2,2.75
+"818","St. Lucia",2013,"St. Lucia",70,2,3.25
+"819","Japan",2015,"Venezuela",79,3,3
+"820","Japan",2015,"Peru",78,3,3.5
+"821","France",2018,"Dominican Republic",70,2,3.25
+"822","France",2018,"Haiti",70,2,3.5
+"823","France",2018,"Guatemala",70,2,3.5
+"824","France",2018,"Madagascar",70,2,3.5
+"825","U.S.A.",2016,"Honduras",75,2,3.25
+"826","U.S.A.",2018,"Vietnam",72,2,3
+"827","U.S.A.",2019,"Sierra Leone",70,3,2.5
+"828","U.S.A.",2019,"Tanzania",80,3,3
+"829","U.S.A.",2019,"Trinidad",72,3,3.5
+"830","France",2014,"Vietnam",80,3,3
+"831","France",2014,"Vietnam",70,3,3.25
+"832","France",2014,"Vietnam",74,3,3.25
+"833","U.S.A.",2008,"Venezuela",72,4,3
+"834","U.S.A.",2009,"Costa Rica",65,4,2
+"835","U.S.A.",2009,"Blend",74,4,2.75
+"836","U.S.A.",2009,"Venezuela",81,4,3.5
+"837","U.S.A.",2012,"Venezuela",70,4,2.75
+"838","U.S.A.",2021,"Blend",65,3,3
+"839","U.S.A.",2021,"Colombia",70,2,3.5
+"840","U.S.A.",2011,"Blend",55,4,2.5
+"841","U.S.A.",2011,"Trinidad",55,4,2.5
+"842","U.S.A.",2011,"Venezuela",70,4,2.5
+"843","U.S.A.",2011,"Blend",62,4,2.5
+"844","U.S.A.",2011,"Blend",62,4,2.75
+"845","U.S.A.",2014,"Belize",80,3,3
+"846","U.S.A.",2014,"Ecuador",80,3,3.5
+"847","U.S.A.",2014,"Dominican Republic",80,3,3.75
+"848","U.S.A.",2018,"Guatemala",80,3,3.5
+"849","U.S.A.",2021,"Uganda",70,3,3
+"850","U.S.A.",2019,"Peru",73,3,3
+"851","U.S.A.",2010,"Brazil",75,2,2.75
+"852","Portugal",2016,"Venezuela",76,2,2.5
+"853","Portugal",2016,"Belize",76,2,2.75
+"854","Portugal",2016,"Jamaica",76,2,3
+"855","Switzerland",2006,"Blend",62,5,2
+"856","Switzerland",2006,"Madagascar",64,5,3
+"857","Switzerland",2006,"Venezuela",65,5,3
+"858","Switzerland",2006,"Dominican Republic",74,5,3
+"859","Switzerland",2006,"Ecuador",72,5,3.5
+"860","Switzerland",2006,"Bolivia",68,5,4
+"861","Switzerland",2010,"Grenada",58,5,3.5
+"862","U.S.A.",2014,"Puerto Rico",65,3,2.25
+"863","U.S.A.",2014,"Dominican Republic",85,3,2.5
+"864","U.S.A.",2014,"Dominican Republic",80,3,3
+"865","U.S.A.",2014,"Dominican Republic",70,3,3.25
+"866","Canada",2020,"Honduras",70,3,2.75
+"867","Canada",2020,"Colombia",70,3,2.75
+"868","Canada",2020,"Mexico",70,3,3
+"869","Canada",2020,"Blend",70,3,3.25
+"870","U.K.",2019,"Philippines",73,4,3.25
+"871","U.K.",2019,"Papua New Guinea",72,4,3.5
+"872","U.K.",2019,"Solomon Islands",69,4,3.5
+"873","U.K.",2019,"Vanuatu",72,4,3.75
+"874","U.S.A.",2018,"Belize",75,2,2.75
+"875","U.S.A.",2018,"Guatemala",75,2,2.75
+"876","U.S.A.",2018,"Colombia",75,2,3
+"877","U.S.A.",2018,"Dominican Republic",75,2,3.5
+"878","Norway",2018,"Madagascar",70,3,3
+"879","Norway",2018,"India",68,3,3.5
+"880","Norway",2018,"Tanzania",70,3,3.5
+"881","U.K.",2014,"Peru",72,3,2.75
+"882","Puerto Rico",2016,"Dominican Republic",70,6,2.75
+"883","Puerto Rico",2016,"Dominican Republic",80,6,2.75
+"884","Singapore",2016,"Madagascar",70,2,2.75
+"885","Singapore",2016,"Ecuador",75,2,3.5
+"886","Singapore",2016,"Tanzania",67,2,3.75
+"887","Singapore",2018,"Dominican Republic",72,2,2.75
+"888","Singapore",2018,"Bolivia",70,2,3
+"889","Singapore",2018,"Indonesia",70,2,3
+"890","Singapore",2018,"Philippines",70,2,3.25
+"891","Singapore",2018,"Haiti",68,2,3.5
+"892","Singapore",2019,"Mexico",70,2,3
+"893","Singapore",2019,"Madagascar",70,2,3.5
+"894","Singapore",2021,"Indonesia",72,2,3.5
+"895","Singapore",2021,"Malaysia",72,2,3.5
+"896","New Zealand",2019,"Papua New Guinea",70,2,3
+"897","New Zealand",2019,"Bolivia",70,2,3
+"898","New Zealand",2019,"Vanuatu",70,2,3
+"899","New Zealand",2019,"Colombia",70,2,3
+"900","New Zealand",2019,"Tanzania",70,2,3.25
+"901","New Zealand",2019,"Ecuador",70,2,3.75
+"902","New Zealand",2019,"Peru",70,2,3.75
+"903","Venezuela",2012,"Venezuela",60,3,3.5
+"904","Venezuela",2012,"Venezuela",70,3,3.75
+"905","Venezuela",2014,"Venezuela",70,3,3.5
+"906","Venezuela",2014,"Venezuela",70,3,3.75
+"907","Venezuela",2018,"Venezuela",60,4,2.5
+"908","Venezuela",2018,"Venezuela",70,3,3
+"909","Venezuela",2018,"Venezuela",85,2,3
+"910","Venezuela",2018,"Venezuela",70,3,3.25
+"911","Venezuela",2018,"Venezuela",72,2,3.5
+"912","Belgium",2014,"Ghana",60,4,3.5
+"913","Belgium",2014,"Madagascar",65,4,3.5
+"914","Belgium",2015,"Vietnam",80,4,3
+"915","Belgium",2015,"Costa Rica",70,4,3.5
+"916","Belgium",2015,"Peru",75,4,3.5
+"917","U.S.A.",2011,"Peru",70,2,3.5
+"918","U.S.A.",2011,"Dominican Republic",65,2,3.5
+"919","U.S.A.",2012,"Peru",81,2,2
+"920","U.S.A.",2012,"Peru",70,2,2.5
+"921","U.S.A.",2012,"Peru",66,2,3.5
+"922","U.S.A.",2013,"Peru",66,2,3.5
+"923","U.S.A.",2014,"Costa Rica",80,2,3
+"924","U.S.A.",2014,"Nicaragua",68,2,3.25
+"925","U.S.A.",2015,"Guatemala",73,2,3.5
+"926","U.S.A.",2017,"Peru",70,2,3.5
+"927","U.S.A.",2019,"India",71,3,3.25
+"928","U.S.A.",2009,"Jamaica",80,3,2.75
+"929","U.S.A.",2009,"Jamaica",70,3,3
+"930","U.S.A.",2009,"Jamaica",70,3,3.25
+"931","U.S.A.",2009,"Venezuela",65,3,3.5
+"932","U.S.A.",2011,"Ghana",74,3,2.75
+"933","U.S.A.",2011,"Madagascar",74,3,2.75
+"934","U.S.A.",2011,"Madagascar",74,3,3
+"935","U.S.A.",2011,"Jamaica",70,3,3.25
+"936","U.S.A.",2011,"Dominican Republic",72,3,3.25
+"937","U.S.A.",2011,"Venezuela",76,3,3.25
+"938","U.S.A.",2011,"Dominican Republic",72,3,3.5
+"939","U.S.A.",2011,"Jamaica",70,3,3.5
+"940","U.S.A.",2011,"Venezuela",70,3,4
+"941","U.S.A.",2012,"Papua New Guinea",69,2,3
+"942","U.S.A.",2012,"Papua New Guinea",69,2,3.5
+"943","U.S.A.",2012,"Papua New Guinea",69,2,3.5
+"944","U.S.A.",2012,"Madagascar",74,3,4
+"945","U.S.A.",2012,"Papua New Guinea",69,2,4
+"946","U.S.A.",2013,"Dominican Republic",72,3,3.25
+"947","U.S.A.",2013,"Dominican Republic",72,3,3.75
+"948","U.S.A.",2013,"Peru",70,3,3.75
+"949","U.S.A.",2013,"Peru",70,3,4
+"950","U.S.A.",2014,"Peru",70,3,3
+"951","U.S.A.",2014,"Peru",70,3,3.5
+"952","U.S.A.",2014,"Peru",70,3,3.5
+"953","U.S.A.",2014,"Peru",70,3,3.5
+"954","U.S.A.",2017,"Guatemala",70,3,3.5
+"955","U.S.A.",2017,"Guatemala",70,3,3.5
+"956","U.S.A.",2017,"Guatemala",70,3,3.75
+"957","U.S.A.",2018,"Venezuela",72,3,3.25
+"958","U.S.A.",2018,"Venezuela",72,3,3.5
+"959","U.S.A.",2021,"Peru",74,3,3
+"960","U.S.A.",2021,"Ghana",68,3,3.25
+"961","U.S.A.",2021,"Peru",74,3,3.25
+"962","U.S.A.",2021,"Ghana",68,3,3.5
+"963","U.S.A.",2021,"Nicaragua",70,3,3.5
+"964","U.S.A.",2021,"Madagascar",70,3,3.5
+"965","U.S.A.",2021,"Nicaragua",70,3,3.75
+"966","U.S.A.",2021,"Venezuela",68,3,4
+"967","U.S.A.",2017,"Brazil",70,2,3.5
+"968","U.S.A.",2017,"Tanzania",70,2,3.75
+"969","U.S.A.",2014,"Belize",70,2,3.5
+"970","U.S.A.",2014,"Madagascar",70,2,3.5
+"971","U.S.A.",2014,"Peru",70,2,4
+"972","Denmark",2016,"Nicaragua",70,2,3.5
+"973","Denmark",2017,"Nicaragua",70,3,3.75
+"974","Denmark",2018,"Nicaragua",60,3,3
+"975","Denmark",2018,"Nicaragua",70,3,3
+"976","Denmark",2018,"Nicaragua",70,3,3.25
+"977","Denmark",2018,"Nicaragua",70,3,3.25
+"978","Denmark",2018,"Nicaragua",68,3,3.5
+"979","Denmark",2018,"Nicaragua",70,3,3.5
+"980","Denmark",2018,"Nicaragua",70,3,3.75
+"981","Denmark",2018,"Nicaragua",70,3,3.75
+"982","Denmark",2018,"Nicaragua",70,3,3.75
+"983","Denmark",2018,"Guatemala",70,3,4
+"984","Denmark",2018,"Nicaragua",70,3,4
+"985","Denmark",2011,"Nicaragua",70,3,3.25
+"986","Denmark",2011,"Nicaragua",70,3,3.5
+"987","Denmark",2011,"Nicaragua",70,3,3.5
+"988","Denmark",2012,"Nicaragua",70,3,3.25
+"989","Denmark",2012,"Honduras",70,3,3.25
+"990","Denmark",2012,"Nicaragua",70,3,3.25
+"991","Denmark",2012,"Nicaragua",70,3,3.75
+"992","Denmark",2013,"Nicaragua",70,3,3.25
+"993","Denmark",2013,"Nicaragua",70,3,3.5
+"994","Denmark",2014,"Nicaragua",70,3,3.5
+"995","Denmark",2015,"Nicaragua",60,3,3
+"996","Denmark",2015,"Nicaragua",85,3,3.25
+"997","U.S.A.",2011,"Costa Rica",70,3,3
+"998","U.S.A.",2011,"Costa Rica",66,3,3.25
+"999","U.S.A.",2012,"Peru",70,3,2.5
+"1000","U.S.A.",2013,"Ecuador",75,3,3
+"1001","U.S.A.",2013,"Dominican Republic",70,3,3.75
+"1002","U.S.A.",2014,"Peru",76,3,3
+"1003","U.S.A.",2014,"Trinidad",70,3,3.75
+"1004","U.S.A.",2016,"Bolivia",74,2,3.75
+"1005","U.S.A.",2016,"Costa Rica",74,2,4
+"1006","U.S.A.",2019,"Colombia",85,2,3.5
+"1007","U.S.A.",2019,"Madagascar",74,2,3.75
+"1008","U.S.A.",2021,"Dominican Republic",77,2,3.25
+"1009","U.S.A.",2021,"Dominican Republic",68,4,3.75
+"1010","U.S.A.",2021,"Peru",72,3,3.75
+"1011","Taiwan",2018,"Taiwan",70,3,2.5
+"1012","Taiwan",2018,"Madagascar",70,2,3
+"1013","Taiwan",2018,"Tanzania",70,2,3
+"1014","Taiwan",2018,"Venezuela",70,3,3.5
+"1015","U.S.A.",2014,"U.S.A.",85,3,2.5
+"1016","Germany",2015,"Madagascar",65,4,3.25
+"1017","Germany",2015,"Dominican Republic",70,4,3.5
+"1018","Germany",2015,"Dominican Republic",80,4,3.5
+"1019","Germany",2015,"Madagascar",75,4,3.5
+"1020","Germany",2015,"Ghana",70,4,4
+"1021","Germany",2017,"St. Lucia",77,3,3.5
+"1022","Germany",2017,"Venezuela",75,3,3.5
+"1023","Germany",2018,"Guatemala",72,3,2.75
+"1024","Germany",2019,"Venezuela",75,3,2.75
+"1025","U.S.A.",2015,"Brazil",66,2,3
+"1026","U.S.A.",2016,"Belize",70,2,3.5
+"1027","U.S.A.",2016,"Mexico",77,3,2.75
+"1028","U.S.A.",2016,"Guatemala",77,3,3.25
+"1029","U.S.A.",2016,"Nicaragua",77,3,3.25
+"1030","U.S.A.",2017,"Peru",70,3,3.25
+"1031","U.S.A.",2019,"Colombia",73,3,2.5
+"1032","U.S.A.",2019,"Costa Rica",73,3,3
+"1033","U.S.A.",2021,"Ecuador",70,3,3.75
+"1034","U.S.A.",2018,"Belize",70,2,2.75
+"1035","U.S.A.",2021,"India",70,2,3
+"1036","U.S.A.",2021,"Bolivia",70,2,3.25
+"1037","U.S.A.",2021,"Dominican Republic",70,2,3.25
+"1038","Vietnam",2011,"Vietnam",72,5,3
+"1039","U.S.A.",2021,"Madagascar",72,3,3.5
+"1040","U.S.A.",2021,"Tanzania",70,3,3.5
+"1041","U.S.A.",2021,"Dominican Republic",75,3,3.5
+"1042","U.S.A.",2021,"Vietnam",73,3,3.5
+"1043","U.K.",2006,"Blend",70,5,2.5
+"1044","Japan",2016,"Madagascar",70,2,3.5
+"1045","Japan",2019,"Peru",73,2,2.5
+"1046","U.K.",2021,"India",70,3,3
+"1047","Grenada",2008,"Grenada",71,5,2.5
+"1048","Grenada",2009,"Grenada",60,5,2.75
+"1049","Grenada",2010,"Grenada",82,5,3.25
+"1050","Italy",2009,"Ecuador",64,4,3
+"1051","Italy",2009,"Ghana",64,4,3
+"1052","Italy",2009,"Blend",64,4,3
+"1053","Italy",2009,"Venezuela",76,4,3
+"1054","Italy",2009,"Blend",64,4,3.25
+"1055","Italy",2018,"Madagascar",70,4,2.75
+"1056","U.S.A.",2006,"Venezuela",65,5,2.5
+"1057","U.S.A.",2006,"Colombia",65,5,3
+"1058","U.S.A.",2006,"Blend",61,5,3
+"1059","U.S.A.",2006,"Madagascar",65,5,3.5
+"1060","U.S.A.",2006,"Ecuador",65,5,3.5
+"1061","U.S.A.",2006,"Blend",61,5,3.5
+"1062","U.S.A.",2007,"Blend",72,5,3.5
+"1063","U.S.A.",2008,"Peru",65,5,3
+"1064","U.S.A.",2008,"Blend",64,5,3
+"1065","U.S.A.",2008,"Venezuela",65,5,3.5
+"1066","U.S.A.",2009,"U.S.A.",55,5,3
+"1067","U.S.A.",2009,"Blend",91,5,3
+"1068","U.S.A.",2009,"Blend",70,5,3.5
+"1069","U.S.A.",2010,"Trinidad",65,5,3
+"1070","U.S.A.",2011,"Blend",72,5,2.75
+"1071","U.S.A.",2011,"Blend",61,5,3.25
+"1072","U.S.A.",2011,"Blend",72,5,3.25
+"1073","U.S.A.",2013,"Haiti",65,5,2.75
+"1074","U.S.A.",2013,"Nicaragua",65,5,2.75
+"1075","U.S.A.",2013,"Jamaica",65,5,3.25
+"1076","U.S.A.",2013,"Ecuador",65,5,3.5
+"1077","U.S.A.",2015,"Blend",70,5,3.75
+"1078","Canada",2014,"Papua New Guinea",80,3,2.75
+"1079","Canada",2014,"Blend",74,3,2.75
+"1080","Canada",2014,"Blend",65,3,2.75
+"1081","Canada",2014,"Blend",70,3,3
+"1082","Canada",2014,"Blend",80,3,3
+"1083","Canada",2014,"Dominican Republic",75,3,3.25
+"1084","Canada",2014,"U.S.A.",66,3,3.25
+"1085","Canada",2014,"Blend",70,3,3.5
+"1086","Germany",2007,"Ecuador",77,4,2.5
+"1087","Ecuador",2014,"Ecuador",55,4,2.75
+"1088","Ecuador",2014,"Ecuador",70,4,3
+"1089","U.S.A.",2015,"Brazil",67,3,3
+"1090","U.S.A.",2015,"Brazil",77,3,3.5
+"1091","U.S.A.",2015,"Brazil",74,3,3.5
+"1092","U.S.A.",2016,"Brazil",85,3,3.25
+"1093","U.S.A.",2018,"Brazil",75,3,3
+"1094","U.K.",2019,"India",70,3,3
+"1095","U.K.",2019,"Vietnam",70,3,3.25
+"1096","U.S.A.",2019,"Peru",65,3,2.75
+"1097","U.S.A.",2019,"Tanzania",72,3,3.25
+"1098","U.S.A.",2019,"Dominican Republic",70,3,3.5
+"1099","Mexico",2021,"Mexico",70,2,3.5
+"1100","Germany",2016,"Peru",64,3,2.75
+"1101","Netherlands",2019,"Indonesia",71,4,2.5
+"1102","Netherlands",2019,"Blend",71,4,2.5
+"1103","Netherlands",2019,"Venezuela",71,4,3
+"1104","U.S.A.",2016,"Belize",70,3,3.25
+"1105","U.S.A.",2016,"Costa Rica",74,3,3.5
+"1106","U.S.A.",2014,"Bolivia",67,3,3
+"1107","U.S.A.",2014,"Bolivia",67,3,3.5
+"1108","U.S.A.",2014,"Ecuador",67,3,3.75
+"1109","U.S.A.",2014,"U.S.A.",67,3,3.75
+"1110","U.S.A.",2016,"U.S.A.",72,3,3.5
+"1111","U.S.A.",2016,"Ecuador",70,3,3.5
+"1112","U.S.A.",2016,"Ecuador",77,3,3.5
+"1113","U.S.A.",2016,"Bolivia",68,3,3.75
+"1114","U.S.A.",2016,"Bolivia",72,3,4
+"1115","U.S.A.",2015,"Uganda",57,3,2.75
+"1116","U.S.A.",2015,"Venezuela",74,3,3.5
+"1117","U.S.A.",2021,"Ecuador",70,2,2.75
+"1118","U.S.A.",2021,"Nicaragua",70,2,3.25
+"1119","U.S.A.",2015,"Tanzania",70,2,2.75
+"1120","U.S.A.",2015,"Madagascar",74,2,3
+"1121","U.S.A.",2015,"Venezuela",70,2,3
+"1122","U.S.A.",2015,"Ecuador",73,2,3.25
+"1123","U.S.A.",2015,"Peru",70,2,3.25
+"1124","U.S.A.",2018,"Peru",70,2,2.25
+"1125","U.S.A.",2018,"Ecuador",73,2,2.5
+"1126","U.S.A.",2018,"Madagascar",74,2,2.75
+"1127","U.S.A.",2018,"Tanzania",70,2,3
+"1128","U.S.A.",2018,"Dominican Republic",71,2,3.5
+"1129","New Zealand",2016,"Madagascar",70,3,2.75
+"1130","New Zealand",2016,"Venezuela",72,3,2.75
+"1131","New Zealand",2016,"Dominican Republic",75,3,3.25
+"1132","New Zealand",2016,"Peru",66,3,3.5
+"1133","New Zealand",2019,"Venezuela",68,3,3.25
+"1134","New Zealand",2019,"Ecuador",85,3,3.5
+"1135","Ecuador",2009,"Ecuador",80,4,2
+"1136","Ecuador",2009,"Ecuador",80,2,2.5
+"1137","Ecuador",2009,"Ecuador",72,2,3
+"1138","Ecuador",2009,"Ecuador",58,4,3.25
+"1139","Ecuador",2009,"Ecuador",58,4,3.5
+"1140","Israel",2009,"Ivory Coast",70,2,2.5
+"1141","Israel",2009,"Dominican Republic",70,2,2.75
+"1142","Israel",2009,"Peru",70,2,3.5
+"1143","Israel",2009,"Dominican Republic",75,2,3.75
+"1144","Israel",2015,"Ecuador",70,4,3.5
+"1145","Israel",2015,"Madagascar",70,4,3.5
+"1146","Israel",2015,"Trinidad",70,4,3.5
+"1147","Israel",2015,"Venezuela",70,4,3.5
+"1148","Israel",2016,"Peru",70,4,2.75
+"1149","South Africa",2014,"Ecuador",72,2,2.5
+"1150","U.K.",2013,"St. Lucia",70,2,4
+"1151","U.K.",2015,"St. Lucia",70,2,2.75
+"1152","U.K.",2018,"Colombia",75,4,2.75
+"1153","U.K.",2019,"Honduras",72,4,3
+"1154","U.K.",2019,"Tanzania",80,4,3
+"1155","U.K.",2008,"Tanzania",75,4,2.75
+"1156","U.K.",2008,"St. Lucia",72,3,3
+"1157","U.K.",2008,"Sao Tome",72,4,3
+"1158","U.K.",2010,"Venezuela",70,4,2.75
+"1159","U.K.",2011,"Ecuador",80,4,3
+"1160","U.K.",2011,"St. Lucia",65,4,3
+"1161","U.K.",2011,"St. Lucia",65,4,3.25
+"1162","U.K.",2012,"Madagascar",66,4,3.5
+"1163","U.K.",2013,"Ecuador",100,1,2.5
+"1164","U.K.",2013,"Trinidad",75,4,3
+"1165","U.K.",2013,"Ecuador",90,2,3
+"1166","U.K.",2013,"Madagascar",72,4,3
+"1167","U.K.",2013,"Vietnam",80,4,3.5
+"1168","U.K.",2013,"Ecuador",82,2,3.5
+"1169","Canada",2013,"Venezuela",70,3,3.25
+"1170","Canada",2013,"Venezuela",70,3,3.75
+"1171","Canada",2014,"Bolivia",70,3,3
+"1172","Canada",2014,"Bolivia",70,3,3
+"1173","Canada",2014,"Nicaragua",70,3,3
+"1174","Canada",2014,"Dominican Republic",70,3,3.5
+"1175","Canada",2014,"Dominican Republic",70,3,3.75
+"1176","Canada",2015,"Vietnam",70,3,3.5
+"1177","Switzerland",2011,"Venezuela",72,3,3.25
+"1178","Switzerland",2011,"Venezuela",72,3,3.5
+"1179","Switzerland",2011,"Venezuela",72,3,3.75
+"1180","Switzerland",2011,"Venezuela",72,3,3.75
+"1181","Switzerland",2011,"Venezuela",72,3,3.75
+"1182","Switzerland",2011,"Venezuela",74,3,4
+"1183","Switzerland",2011,"Venezuela",70,3,4
+"1184","Switzerland",2011,"Venezuela",72,3,4
+"1185","Switzerland",2011,"Venezuela",72,3,4
+"1186","Switzerland",2013,"Venezuela",72,3,3.75
+"1187","India",2016,"India",61,4,2.5
+"1188","U.S.A.",2014,"Honduras",77,3,3
+"1189","U.S.A.",2017,"Vietnam",72,3,3.25
+"1190","Scotland",2012,"Peru",72,4,2.75
+"1191","Scotland",2012,"Peru",72,4,3
+"1192","U.S.A.",2014,"Peru",72,2,2.25
+"1193","U.S.A.",2014,"Belize",72,2,3.25
+"1194","U.S.A.",2014,"Dominican Republic",72,2,3.25
+"1195","U.S.A.",2014,"Madagascar",72,2,3.5
+"1196","St.Vincent-Grenadines",2018,"St.Vincent-Grenadines",72,4,2.75
+"1197","U.S.A.",2015,"Dominican Republic",70,2,2.75
+"1198","U.S.A.",2015,"Belize",70,2,3.5
+"1199","U.S.A.",2006,"Ghana",71,5,2
+"1200","U.S.A.",2018,"Venezuela",72,3,3.25
+"1201","U.S.A.",2017,"Jamaica",67,4,3
+"1202","U.S.A.",2017,"Peru",75,4,3
+"1203","U.S.A.",2017,"Venezuela",72,3,3.5
+"1204","U.S.A.",2017,"Vietnam",65,4,3.5
+"1205","U.S.A.",2017,"Ecuador",70,4,3.5
+"1206","U.S.A.",2017,"Madagascar",68,5,3.5
+"1207","U.S.A.",2017,"Ecuador",78,4,3.75
+"1208","U.S.A.",2018,"India",66,4,3
+"1209","U.S.A.",2018,"Colombia",73,4,3.25
+"1210","U.S.A.",2018,"Trinidad",80,4,3.25
+"1211","Czech Republic",2015,"Madagascar",63,2,2.75
+"1212","Czech Republic",2020,"Venezuela",75,3,2.75
+"1213","Thailand",2018,"Thailand",70,3,3
+"1214","Thailand",2018,"Thailand",70,3,3.5
+"1215","Thailand",2018,"Thailand",70,3,3.5
+"1216","Thailand",2018,"Thailand",70,3,3.75
+"1217","Dominican Republic",2013,"Dominican Republic",82,5,3
+"1218","Dominican Republic",2013,"Dominican Republic",55,5,3.25
+"1219","Dominican Republic",2013,"Dominican Republic",62,5,3.25
+"1220","Dominican Republic",2013,"Dominican Republic",70,5,3.5
+"1221","U.S.A.",2020,"Dominican Republic",68,4,3.75
+"1222","U.S.A.",2020,"Dominican Republic",70,3,3.75
+"1223","U.S.A.",2020,"Dominican Republic",67,4,3.75
+"1224","Dominican Republic",2019,"Dominican Republic",70,3,3
+"1225","U.S.A.",2019,"Dominican Republic",72,4,3
+"1226","Dominican Republic",2019,"Dominican Republic",71.5,3,3.5
+"1227","Dominican Republic",2019,"Dominican Republic",68,4,3.75
+"1228","U.S.A.",2019,"Dominican Republic",65,4,3.75
+"1229","Spain",2019,"Nicaragua",75,3,3
+"1230","Spain",2019,"Peru",75,3,3
+"1231","Spain",2019,"Tanzania",75,3,3.25
+"1232","Ecuador",2008,"Ecuador",85,4,2.5
+"1233","Ecuador",2008,"Ecuador",75,4,2.5
+"1234","Ecuador",2008,"Ecuador",75,4,2.75
+"1235","Ecuador",2008,"Ecuador",85,4,2.75
+"1236","Ecuador",2008,"Ecuador",70,4,3
+"1237","Ecuador",2008,"Ecuador",85,4,3
+"1238","Ecuador",2008,"Ecuador",85,4,3
+"1239","Ecuador",2008,"Ecuador",70,4,3.5
+"1240","Canada",2021,"Philippines",70,3,3.25
+"1241","Canada",2021,"Papua New Guinea",70,3,3.5
+"1242","U.S.A.",2013,"Dominican Republic",70,3,3.75
+"1243","Mexico",2009,"Mexico",72,5,2
+"1244","Canada",2020,"Colombia",70,3,3.25
+"1245","U.S.A.",2014,"Dominican Republic",60,2,3
+"1246","Amsterdam",2017,"Belize",70,2,3
+"1247","Amsterdam",2017,"Vietnam",70,2,3
+"1248","Amsterdam",2017,"Mexico",70,2,3.25
+"1249","Amsterdam",2018,"Madagascar",70,2,3
+"1250","Amsterdam",2018,"Philippines",70,2,3.25
+"1251","Amsterdam",2018,"Mexico",70,2,3.75
+"1252","Netherlands",2019,"Colombia",70,2,3
+"1253","Amsterdam",2019,"Papua New Guinea",70,2,3.25
+"1254","U.S.A.",2014,"Peru",72,2,2.5
+"1255","U.S.A.",2014,"Venezuela",72,3,2.75
+"1256","U.S.A.",2014,"Belize",72,3,3
+"1257","U.S.A.",2014,"Madagascar",72,3,3.25
+"1258","U.S.A.",2014,"Belize",90,2,3.25
+"1259","U.S.A.",2014,"Dominican Republic",72,3,3.25
+"1260","U.S.A.",2014,"Dominican Republic",72,3,3.25
+"1261","U.S.A.",2016,"Peru",70,4,2.75
+"1262","U.S.A.",2016,"Haiti",70,4,3.25
+"1263","U.S.A.",2016,"Brazil",70,4,3.75
+"1264","U.S.A.",2016,"Ecuador",70,4,3.75
+"1265","U.S.A.",2014,"Uganda",72.5,5,2.5
+"1266","U.S.A.",2014,"Ecuador",72.5,5,2.5
+"1267","U.S.A.",2014,"Dominican Republic",72.5,5,3
+"1268","U.S.A.",2014,"Madagascar",72.5,5,3
+"1269","U.S.A.",2009,"Bolivia",68,5,3
+"1270","U.S.A.",2009,"Madagascar",64,5,3.5
+"1271","U.S.A.",2010,"Venezuela",71,5,3
+"1272","U.S.A.",2010,"Grenada",75,5,3.25
+"1273","U.S.A.",2010,"Dominican Republic",74,5,3.75
+"1274","U.S.A.",2011,"Ecuador",74,5,3.75
+"1275","U.S.A.",2012,"Peru",74,5,3.25
+"1276","U.S.A.",2012,"Venezuela",68,5,3.75
+"1277","U.S.A.",2012,"Brazil",70,5,4
+"1278","U.S.A.",2019,"Fiji",68,3,3
+"1279","U.S.A.",2018,"Dominican Republic",70,2,3
+"1280","U.S.A.",2018,"Peru",75,2,3
+"1281","U.S.A.",2018,"Belize",70,4,3.25
+"1282","U.S.A.",2018,"Guatemala",70,2,3.25
+"1283","France",2018,"Belize",70,2,3.5
+"1284","France",2018,"Guatemala",70,2,3.5
+"1285","France",2019,"Peru",72,2,3.5
+"1286","France",2008,"Blend",74,4,3.5
+"1287","France",2009,"Blend",60,4,3
+"1288","France",2009,"Ghana",68,4,3.25
+"1289","France",2009,"Venezuela",69,4,3.5
+"1290","France",2009,"Blend",60,4,3.75
+"1291","France",2011,"Grenada",68,4,3.5
+"1292","France",2012,"Dominican Republic",66,4,3.5
+"1293","France",2013,"Blend",74,4,2.75
+"1294","France",2013,"Tobago",60,4,3.25
+"1295","France",2013,"Ecuador",56,4,3.25
+"1296","Mexico",2018,"Mexico",70,2,3
+"1297","Mexico",2018,"Mexico",70,2,3.5
+"1298","Mexico",2018,"Mexico",70,2,3.5
+"1299","France",2014,"Cuba",70,4,2.75
+"1300","France",2014,"Blend",68,4,2.75
+"1301","France",2015,"Madagascar",75,4,2.75
+"1302","France",2015,"Vietnam",75,4,2.75
+"1303","France",2015,"Cuba",75,4,3
+"1304","France",2015,"Ivory Coast",75,4,3
+"1305","France",2015,"Peru",75,4,3.25
+"1306","France",2015,"Brazil",75,4,3.25
+"1307","France",2015,"Sao Tome",75,4,3.5
+"1308","France",2015,"Vietnam",75,4,3.75
+"1309","U.S.A.",2012,"Venezuela",75,5,3
+"1310","U.S.A.",2012,"Venezuela",75,5,3
+"1311","U.S.A.",2012,"Blend",72,5,3
+"1312","U.S.A.",2016,"Nicaragua",80,2,3.5
+"1313","U.K.",2018,"Nicaragua",71,3,3
+"1314","U.K.",2018,"Honduras",70,3,3.25
+"1315","U.K.",2018,"Nicaragua",73,3,3.5
+"1316","U.S.A.",2017,"Bolivia",74,3,3.75
+"1317","Belgium",2019,"Colombia",70,3,2.75
+"1318","Belgium",2019,"Costa Rica",70,3,3.25
+"1319","Belgium",2019,"Peru",70,3,3.5
+"1320","U.S.A.",2014,"Peru",70,2,3.5
+"1321","U.S.A.",2015,"Costa Rica",70,2,3
+"1322","U.S.A.",2015,"Bolivia",70,2,3.25
+"1323","U.S.A.",2015,"Dominican Republic",70,2,3.25
+"1324","U.S.A.",2015,"Trinidad",70,2,3.5
+"1325","U.S.A.",2015,"Tanzania",70,2,3.5
+"1326","U.S.A.",2016,"Liberia",70,2,3.25
+"1327","U.S.A.",2017,"Belize",70,2,3.25
+"1328","U.S.A.",2017,"Honduras",70,2,3.5
+"1329","U.S.A.",2017,"Peru",70,3,4
+"1330","U.S.A.",2018,"Ghana",70,3,3.75
+"1331","U.S.A.",2019,"Jamaica",70,3,3.25
+"1332","U.S.A.",2019,"Bolivia",70,3,3.25
+"1333","U.S.A.",2021,"Sao Tome & Principe",70,3,3.5
+"1334","U.S.A.",2021,"U.S.A.",70,3,3.75
+"1335","Finland",2014,"Madagascar",71,3,3.5
+"1336","Finland",2016,"Madagascar",70,2,3
+"1337","U.S.A.",2012,"Blend",75,2,2.75
+"1338","U.S.A.",2012,"Dominican Republic",74,2,3
+"1339","U.S.A.",2012,"Peru",65,2,3.5
+"1340","U.S.A.",2012,"Bolivia",68,2,3.5
+"1341","U.S.A.",2012,"Bolivia",68,2,3.5
+"1342","U.S.A.",2012,"Peru",68,2,3.75
+"1343","Switzerland",2007,"Blend",85,4,3
+"1344","U.S.A.",2020,"Sierra Leone",72,2,2.5
+"1345","U.S.A.",2020,"India",72,2,3
+"1346","U.S.A.",2020,"Vietnam",72,2,3
+"1347","Puerto Rico",2013,"Puerto Rico",65,5,2.5
+"1348","U.S.A.",2013,"U.S.A.",71,4,3
+"1349","U.S.A.",2013,"U.S.A.",72,4,3
+"1350","U.S.A.",2013,"U.S.A.",70,4,3.5
+"1351","U.S.A.",2014,"U.S.A.",65,4,3.25
+"1352","U.S.A.",2014,"U.S.A.",70,2,3.75
+"1353","U.S.A.",2014,"U.S.A.",75,4,3.75
+"1354","U.S.A.",2021,"Bolivia",70,3,2.75
+"1355","U.S.A.",2021,"Belize",75,3,3
+"1356","U.S.A.",2015,"Nicaragua",75,2,2
+"1357","Taiwan",2018,"Nicaragua",75,2,2.5
+"1358","Taiwan",2018,"Sumatra",70,2,3
+"1359","Taiwan",2018,"Nicaragua",80,2,3.25
+"1360","Taiwan",2018,"Nicaragua",78,2,3.5
+"1361","Brazil",2017,"Brazil",81,2,3.25
+"1362","Brazil",2018,"Brazil",70,2,3
+"1363","Brazil",2021,"Brazil",70,3,3.25
+"1364","U.K.",2020,"Papua New Guinea",72,3,3.25
+"1365","Colombia",2010,"Blend",46,5,2.75
+"1366","Colombia",2010,"Blend",60,5,3
+"1367","Colombia",2010,"Blend",58,5,3
+"1368","Colombia",2010,"Colombia",65,5,3.5
+"1369","U.S.A.",2020,"India",72,3,3
+"1370","U.S.A.",2020,"Madagascar",73,3,3.25
+"1371","U.S.A.",2020,"Tanzania",75,3,3.25
+"1372","U.S.A.",2020,"Uganda",68,3,3.25
+"1373","U.S.A.",2020,"Ivory Coast",67,3,3.5
+"1374","U.S.A.",2019,"Uganda",75,3,2.5
+"1375","U.S.A.",2019,"Ghana",75,3,2.75
+"1376","Madagascar",2008,"Madagascar",67,5,3.5
+"1377","Madagascar",2008,"Madagascar",75,5,3.5
+"1378","Madagascar",2008,"Madagascar",70,5,3.75
+"1379","Madagascar",2008,"Madagascar",63,5,4
+"1380","U.S.A.",2021,"Colombia",70,2,2.5
+"1381","U.S.A.",2010,"Mexico",72,4,2.75
+"1382","U.S.A.",2011,"Dominican Republic",70,4,2.5
+"1383","U.S.A.",2011,"Costa Rica",70,4,2.75
+"1384","U.S.A.",2012,"U.S.A.",70,4,3.25
+"1385","U.S.A.",2012,"U.S.A.",70,4,3.25
+"1386","U.S.A.",2012,"U.S.A.",70,4,3.5
+"1387","U.S.A.",2013,"Puerto Rico",70,4,2.75
+"1388","U.S.A.",2013,"U.S.A.",70,4,2.75
+"1389","U.S.A.",2013,"Mexico",70,4,2.75
+"1390","U.S.A.",2013,"Brazil",70,4,3.5
+"1391","U.S.A.",2017,"Solomon Islands",73,2,3.5
+"1392","Italy",2008,"Tanzania",75,4,2
+"1393","Italy",2008,"Ecuador",70,4,3
+"1394","Italy",2008,"Cuba",70,5,3.25
+"1395","Italy",2008,"Dominican Republic",70,5,3.75
+"1396","Italy",2010,"Ecuador",70,4,2
+"1397","Madagascar",2007,"Madagascar",75,4,2.75
+"1398","Madagascar",2007,"Madagascar",73,4,3.5
+"1399","Philippines",2013,"Philippines",65,5,3.5
+"1400","Thailand",2018,"Thailand",70,3,2.75
+"1401","U.S.A.",2009,"U.S.A.",55,5,2.75
+"1402","U.S.A.",2010,"U.S.A.",55,5,3.5
+"1403","Sweden",2016,"Venezuela",70,3,3
+"1404","U.S.A.",2012,"Dominican Republic",74,3,3.75
+"1405","U.S.A.",2014,"Peru",74,3,2.5
+"1406","U.S.A.",2014,"Venezuela",74,3,2.75
+"1407","U.S.A.",2015,"Ecuador",74,2,2.5
+"1408","Colombia",2014,"Colombia",70,4,2.75
+"1409","U.S.A.",2012,"U.S.A.",72,3,2.75
+"1410","U.S.A.",2012,"Peru",72,3,3
+"1411","U.S.A.",2012,"Liberia",72,3,3.25
+"1412","U.S.A.",2012,"U.S.A.",72,3,3.25
+"1413","U.S.A.",2013,"U.S.A.",72,3,3.75
+"1414","U.S.A.",2015,"Papua New Guinea",72,3,3.5
+"1415","U.S.A.",2015,"Costa Rica",72,3,3.75
+"1416","U.S.A.",2017,"Peru",70,3,3.25
+"1417","U.S.A.",2019,"U.S.A.",70,3,3.5
+"1418","Poland",2012,"Dominican Republic",70,2,3.25
+"1419","Poland",2012,"Ecuador",70,2,3.25
+"1420","Poland",2012,"Ghana",70,2,3.5
+"1421","Poland",2014,"Colombia",85,2,3.5
+"1422","Poland",2014,"Venezuela",70,2,3.75
+"1423","Poland",2016,"Peru",70,3,3.5
+"1424","Poland",2016,"Nicaragua",70,3,3.75
+"1425","U.S.A.",2015,"Trinidad",70,3,2.75
+"1426","U.S.A.",2015,"Colombia",75,3,2.75
+"1427","U.S.A.",2015,"Tanzania",72,3,3
+"1428","U.S.A.",2015,"Dominican Republic",70,3,3.5
+"1429","U.S.A.",2015,"Peru",62,3,3.5
+"1430","U.S.A.",2015,"Ecuador",70,3,3.5
+"1431","U.S.A.",2015,"Nicaragua",70,3,3.5
+"1432","U.S.A.",2015,"Peru",68,3,3.5
+"1433","U.S.A.",2015,"Honduras",78,3,3.5
+"1434","U.S.A.",2016,"Vietnam",75,3,3.25
+"1435","U.S.A.",2017,"Vietnam",73,2,3
+"1436","U.S.A.",2018,"Blend",72,3,3
+"1437","U.S.A.",2018,"Mexico",72,3,3.25
+"1438","U.S.A.",2018,"Dominican Republic",72,3,3.5
+"1439","Peru",2016,"Peru",70,3,2.75
+"1440","Peru",2021,"Peru",80,3,3.25
+"1441","Peru",2021,"Peru",70,3,3.5
+"1442","U.S.A.",2021,"Mexico",72,3,2.75
+"1443","U.S.A.",2021,"Bolivia",72,3,2.75
+"1444","U.S.A.",2021,"Brazil",72,3,3.25
+"1445","Canada",2016,"Blend",75,2,3.25
+"1446","U.S.A.",2018,"Haiti",75,2,2.75
+"1447","Vietnam",2012,"Vietnam",80,3,3
+"1448","Vietnam",2012,"Vietnam",76,3,3.5
+"1449","Vietnam",2012,"Vietnam",72,3,3.5
+"1450","Vietnam",2012,"Vietnam",70,3,3.5
+"1451","Vietnam",2012,"Vietnam",78,3,3.5
+"1452","Vietnam",2012,"Vietnam",74,3,3.5
+"1453","Vietnam",2013,"Vietnam",75,3,3.5
+"1454","Vietnam",2015,"Vietnam",85,2,3.25
+"1455","Vietnam",2015,"Vietnam",68,2,3.5
+"1456","Vietnam",2015,"Vietnam",70,2,3.75
+"1457","Vietnam",2018,"Vietnam",75,3,3.5
+"1458","U.S.A.",2013,"Dominican Republic",74,4,2.25
+"1459","U.S.A.",2013,"Dominican Republic",89,4,2.5
+"1460","Austria",2016,"Bolivia",76,3,2.75
+"1461","Austria",2016,"Haiti",82,3,3
+"1462","Austria",2016,"Colombia",74,3,3.25
+"1463","U.S.A.",2010,"Venezuela",81,2,2.75
+"1464","U.S.A.",2010,"Venezuela",75,2,3
+"1465","U.S.A.",2010,"Dominican Republic",70,2,3.25
+"1466","U.S.A.",2011,"Venezuela",81,2,2.75
+"1467","U.S.A.",2011,"Papua New Guinea",71,2,2.75
+"1468","U.S.A.",2011,"Venezuela",76,2,3
+"1469","U.S.A.",2011,"Venezuela",70,2,3
+"1470","U.S.A.",2011,"Peru",75,2,3
+"1471","U.S.A.",2011,"Dominican Republic",73,2,3.25
+"1472","U.S.A.",2011,"Blend",72,2,3.5
+"1473","U.S.A.",2011,"Belize",70,2,3.5
+"1474","U.S.A.",2011,"Dominican Republic",74,2,3.75
+"1475","U.S.A.",2012,"Blend",72,2,2.5
+"1476","U.S.A.",2012,"Venezuela",73,2,2.75
+"1477","U.S.A.",2012,"Blend",73,2,3.5
+"1478","U.S.A.",2014,"Blend",75,2,3.75
+"1479","U.S.A.",2015,"Guatemala",76,2,3
+"1480","U.S.A.",2015,"Tanzania",74,2,3.25
+"1481","Australia",2013,"Vanuatu",72,3,3.5
+"1482","Australia",2013,"Blend",70,3,3.75
+"1483","Australia",2013,"Madagascar",68,3,4
+"1484","Australia",2013,"Papua New Guinea",74,3,4
+"1485","U.S.A.",2021,"U.S.A.",70,3,3.5
+"1486","U.S.A.",2014,"Belize",70,2,3.25
+"1487","U.S.A.",2014,"Dominican Republic",70,2,3.25
+"1488","U.S.A.",2014,"Peru",82,2,3.25
+"1489","U.S.A.",2014,"Peru",63,3,3.5
+"1490","U.S.A.",2020,"U.S.A.",70,3,3
+"1491","U.S.A.",2020,"Vietnam",75,3,3
+"1492","U.S.A.",2020,"Madagascar",65,3,3.25
+"1493","U.S.A.",2016,"Dominican Republic",72,2,3
+"1494","Canada",2020,"Guatemala",70,3,2.5
+"1495","Canada",2020,"Belize",70,3,3.25
+"1496","U.S.A.",2014,"Bolivia",70,2,2.5
+"1497","U.S.A.",2014,"Venezuela",70,2,2.75
+"1498","U.S.A.",2014,"Belize",70,2,3
+"1499","U.S.A.",2014,"Nicaragua",70,2,3
+"1500","U.S.A.",2014,"Dominican Republic",70,2,3.5
+"1501","Denmark",2019,"Ecuador",85,2,2.5
+"1502","Denmark",2019,"Dominican Republic",70,2,2.75
+"1503","Denmark",2019,"Philippines",70,2,3.25
+"1504","Denmark",2019,"Tanzania",70,2,3.25
+"1505","Madagascar",2012,"Madagascar",80,4,2.5
+"1506","Madagascar",2012,"Madagascar",72,4,2.5
+"1507","Honduras",2014,"Honduras",80,3,3.25
+"1508","Honduras",2014,"Nicaragua",70,3,3.25
+"1509","Honduras",2014,"Honduras",70,3,3.5
+"1510","Honduras",2014,"Nicaragua",80,3,3.5
+"1511","Honduras",2015,"El Salvador",80,3,2.75
+"1512","Honduras",2015,"El Salvador",70,3,3
+"1513","Brazil",2018,"Brazil",75,3,2.5
+"1514","Sweden",2014,"Brazil",70,3,3
+"1515","Sweden",2014,"Madagascar",72,3,3.5
+"1516","Australia",2018,"Solomon Islands",72,3,3.25
+"1517","Australia",2018,"Solomon Islands",67,3,3.75
+"1518","Amsterdam",2015,"Blend",70,3,3.5
+"1519","Germany",2018,"Peru",70,3,3.5
+"1520","France",2006,"Blend",60,4,2
+"1521","France",2006,"Blend",85,4,2
+"1522","France",2006,"Blend",99,4,2
+"1523","France",2006,"Sao Tome",70,4,3
+"1524","France",2006,"Dominican Republic",67,4,3.75
+"1525","France",2006,"Madagascar",65,4,3.75
+"1526","France",2006,"Papua New Guinea",64,4,3.75
+"1527","France",2007,"Venezuela",66,4,3.5
+"1528","France",2007,"Sao Tome",67,4,3.5
+"1529","France",2012,"Mexico",66,4,3.75
+"1530","France",2017,"Colombia",69,4,3.25
+"1531","France",2019,"Brazil",70,4,3
+"1532","France",2019,"Guatemala",70,4,3.5
+"1533","U.S.A.",2012,"Blend",65,4,1.5
+"1534","U.S.A.",2012,"Bolivia",75,4,2
+"1535","U.S.A.",2012,"Indonesia",70,4,2.5
+"1536","U.S.A.",2013,"Dominican Republic",75,3,2.5
+"1537","U.S.A.",2013,"Belize",80,4,3.25
+"1538","U.S.A.",2015,"Tanzania",75,3,3.25
+"1539","U.S.A.",2015,"Belize",80,3,3.5
+"1540","U.S.A.",2015,"Trinidad",70,3,3.5
+"1541","U.S.A.",2015,"Nicaragua",70,3,3.5
+"1542","U.S.A.",2015,"Dominican Republic",75,3,3.75
+"1543","U.S.A.",2015,"Venezuela",75,3,3.75
+"1544","Belgium",2018,"Dominican Republic",70,3,3
+"1545","Belgium",2018,"India",70,3,3.25
+"1546","Belgium",2018,"Peru",70,3,3.25
+"1547","Belgium",2018,"Belize",70,3,3.5
+"1548","U.S.A.",2012,"Ecuador",70,4,3.5
+"1549","U.S.A.",2013,"Ecuador",70,4,2.5
+"1550","Belgium",2019,"Ecuador",70,3,3
+"1551","Belgium",2019,"India",74,3,3
+"1552","Belgium",2019,"Brazil",76,3,3
+"1553","Belgium",2021,"Panama",75,3,2.75
+"1554","Belgium",2021,"India",74,3,3
+"1555","Belgium",2021,"Tanzania",90,3,3
+"1556","Japan",2018,"Brazil",70,2,3
+"1557","Japan",2018,"Vietnam",70,2,3.25
+"1558","Japan",2018,"Madagascar",70,2,3.5
+"1559","Japan",2018,"Peru",70,2,3.75
+"1560","U.S.A.",2010,"Ecuador",77,3,2.75
+"1561","U.S.A.",2019,"Ecuador",67,3,2.75
+"1562","Japan",2016,"Haiti",70,2,3.5
+"1563","U.A.E.",2017,"Papua New Guinea",72,2,3
+"1564","U.A.E.",2017,"Madagascar",72,2,3.25
+"1565","U.A.E.",2017,"India",65,3,3.5
+"1566","U.A.E.",2017,"Vietnam",65,2,3.5
+"1567","U.A.E.",2019,"Tanzania",72,3,3.75
+"1568","Czech Republic",2020,"Vietnam",70,3,3.5
+"1569","Brazil",2015,"Brazil",70,2,3.5
+"1570","Brazil",2016,"Brazil",75,2,3.75
+"1571","Brazil",2019,"Puerto Rico",70,3,3
+"1572","U.S.A.",2010,"Belize",67,3,2.75
+"1573","U.S.A.",2013,"Belize",72,3,3
+"1574","U.S.A.",2013,"Belize",73,3,3.25
+"1575","U.S.A.",2018,"Brazil",72,3,2.5
+"1576","U.S.A.",2018,"Cameroon",68,2,3
+"1577","U.S.A.",2019,"Sierra Leone",72,3,3
+"1578","U.S.A.",2019,"Dominican Republic",70,2,3.5
+"1579","U.S.A.",2019,"Tanzania",72,2,3.75
+"1580","U.S.A.",2021,"Madagascar",70,3,2.75
+"1581","U.S.A.",2021,"Dominican Republic",70,3,3.25
+"1582","U.S.A.",2015,"Indonesia",70,2,2.75
+"1583","U.S.A.",2015,"Dominican Republic",70,2,3
+"1584","U.S.A.",2015,"Peru",70,2,3.25
+"1585","Nicaragua",2011,"Nicaragua",70,2,2.75
+"1586","Nicaragua",2011,"Nicaragua",70,2,2.75
+"1587","Nicaragua",2018,"Nicaragua",70,3,3.25
+"1588","Canada",2016,"Dominican Republic",72,2,3.5
+"1589","Canada",2021,"Philippines",76,3,3.5
+"1590","U.S.A.",2018,"Mexico",70,3,3.25
+"1591","U.S.A.",2021,"Peru",72,3,3.5
+"1592","U.S.A.",2021,"Ecuador",75,2,3.75
+"1593","Mexico",2020,"Mexico",70,3,3
+"1594","U.S.A.",2015,"Nicaragua",70,3,3.5
+"1595","U.S.A.",2015,"Nicaragua",80,3,3.5
+"1596","Japan",2018,"Venezuela",70,2,3.5
+"1597","U.S.A.",2016,"Dominican Republic",71,2,2.75
+"1598","U.S.A.",2016,"Tanzania",68,2,2.75
+"1599","U.S.A.",2016,"Madagascar",68,2,2.75
+"1600","U.S.A.",2016,"Vietnam",80,2,3
+"1601","Costa Rica",2013,"Costa Rica",58,3,2.5
+"1602","Costa Rica",2013,"Costa Rica",70,3,3
+"1603","Lithuania",2012,"Grenada",71,4,2.5
+"1604","Lithuania",2013,"Blend",70,4,3.75
+"1605","Lithuania",2013,"Peru",78,4,3.75
+"1606","Lithuania",2014,"Venezuela",75,4,2.75
+"1607","Lithuania",2014,"Venezuela",70,4,3
+"1608","Lithuania",2014,"Nicaragua",70,4,3.25
+"1609","Lithuania",2019,"Nicaragua",67,3,2.75
+"1610","Lithuania",2019,"El Salvador",70,3,3.25
+"1611","U.S.A.",2014,"Peru",72,2,2.25
+"1612","U.S.A.",2014,"Dominican Republic",70,2,2.5
+"1613","U.S.A.",2014,"Madagascar",73.5,2,2.5
+"1614","U.S.A.",2014,"Ghana",70,3,3.5
+"1615","Ireland",2018,"Dominican Republic",70,2,3.25
+"1616","Belgium",2006,"Blend",73,5,2
+"1617","Belgium",2006,"Sao Tome",75,5,2.75
+"1618","Belgium",2006,"Venezuela",71,5,3
+"1619","Belgium",2007,"Blend",73,5,1
+"1620","Belgium",2008,"Trinidad",67,5,3.75
+"1621","Belgium",2010,"Papua New Guinea",70,5,2.5
+"1622","U.S.A.",2015,"Venezuela",72,2,2.25
+"1623","U.S.A.",2015,"Dominican Republic",72,2,2.75
+"1624","U.S.A.",2015,"Madagascar",72,2,3
+"1625","U.S.A.",2015,"Peru",72,2,3
+"1626","U.S.A.",2018,"Brazil",72,2,3
+"1627","U.S.A.",2013,"Peru",75,3,2.75
+"1628","U.S.A.",2013,"Ecuador",75,3,3.5
+"1629","Ecuador",2019,"Ecuador",72,3,3.75
+"1630","Peru",2018,"Peru",70,3,3
+"1631","U.S.A.",2018,"Vietnam",72,3,2.75
+"1632","U.S.A.",2018,"Tanzania",72,3,3
+"1633","U.S.A.",2018,"Dominican Republic",72,3,3
+"1634","U.S.A.",2019,"Fiji",74,3,2.75
+"1635","U.S.A.",2019,"Colombia",72,3,3.25
+"1636","U.S.A.",2014,"Ghana",75,4,3
+"1637","U.S.A.",2014,"Belize",75,4,3
+"1638","U.S.A.",2014,"Peru",75,4,3.25
+"1639","Nicaragua",2012,"Nicaragua",75,2,2.75
+"1640","Nicaragua",2012,"Nicaragua",70,2,3
+"1641","Nicaragua",2012,"Ecuador",80,2,3.25
+"1642","U.S.A.",2015,"Ecuador",70,2,2.75
+"1643","U.S.A.",2015,"Venezuela",70,2,3
+"1644","U.S.A.",2015,"Madagascar",70,2,3.5
+"1645","U.S.A.",2015,"Ghana",70,2,3.75
+"1646","U.S.A.",2015,"Dominican Republic",70,2,3.75
+"1647","U.S.A.",2020,"Nigeria",70,3,3
+"1648","U.S.A.",2020,"Vietnam",70,3,3.25
+"1649","Brazil",2016,"Brazil",70,3,3.5
+"1650","U.S.A.",2010,"Jamaica",70,5,2.5
+"1651","Chile",2015,"Peru",70,2,3.75
+"1652","Chile",2019,"Peru",70,2,3.75
+"1653","Scotland",2015,"Congo",70,3,3.75
+"1654","Scotland",2015,"Peru",75,3,4
+"1655","New Zealand",2014,"Papua New Guinea",66,2,2.75
+"1656","New Zealand",2014,"Papua New Guinea",70,2,3
+"1657","New Zealand",2014,"Papua New Guinea",88,2,3.25
+"1658","New Zealand",2014,"Papua New Guinea",74,2,3.5
+"1659","New Zealand",2016,"Samoa",100,1,2.75
+"1660","New Zealand",2016,"Samoa",70,2,3.5
+"1661","U.S.A.",2020,"Guatemala",70,2,3
+"1662","U.S.A.",2020,"Tanzania",70,2,3
+"1663","U.S.A.",2020,"Uganda",70,2,3.25
+"1664","U.S.A.",2020,"India",70,2,3.25
+"1665","U.S.A.",2020,"Colombia",70,2,3.25
+"1666","U.S.A.",2020,"Bolivia",70,2,3.75
+"1667","U.S.A.",2020,"Vietnam",70,2,3.75
+"1668","U.S.A.",2021,"Blend",100,1,3
+"1669","U.S.A.",2021,"Venezuela",80,2,3
+"1670","U.S.A.",2021,"U.S.A.",70,2,3.25
+"1671","U.S.A.",2021,"Peru",70,2,3.25
+"1672","U.S.A.",2021,"Venezuela",70,2,3.5
+"1673","U.S.A.",2021,"Haiti",70,2,3.75
+"1674","U.S.A.",2015,"Trinidad",70,3,2.75
+"1675","U.S.A.",2015,"Tanzania",70,3,3
+"1676","Germany",2011,"Bolivia",70,2,3.5
+"1677","Germany",2018,"Brazil",78,3,3.75
+"1678","U.S.A.",2009,"Blend",67,3,2.75
+"1679","U.S.A.",2009,"Blend",75,3,3
+"1680","U.S.A.",2010,"Dominican Republic",72,3,3
+"1681","U.S.A.",2010,"Ghana",72,3,3
+"1682","Canada",2011,"Blend",76,5,2
+"1683","Canada",2011,"Blend",76,5,2.75
+"1684","Canada",2011,"Blend",85,5,2.75
+"1685","Canada",2011,"Blend",85,5,3
+"1686","Ghana",2011,"Ghana",80,4,2.75
+"1687","Iceland",2014,"Papua New Guinea",70,3,3
+"1688","Iceland",2014,"Madagascar",66,3,3.5
+"1689","Iceland",2016,"Tanzania",70,3,3.75
+"1690","Iceland",2018,"Nicaragua",73,3,3
+"1691","U.S.A.",2020,"Madagascar",70,2,3.25
+"1692","U.S.A.",2020,"Vietnam",70,2,3.25
+"1693","U.S.A.",2020,"Tanzania",70,2,3.5
+"1694","Switzerland",2021,"Colombia",75,3,2.75
+"1695","Switzerland",2021,"Peru",70,3,3.25
+"1696","Switzerland",2021,"Peru",75,3,3.25
+"1697","Switzerland",2021,"Madagascar",75,3,3.5
+"1698","Canada",2013,"Belize",74,3,2.75
+"1699","Canada",2013,"Dominican Republic",72,3,2.75
+"1700","Canada",2013,"Nicaragua",72,3,2.75
+"1701","Canada",2013,"Dominican Republic",72,3,3
+"1702","Canada",2013,"Ecuador",72,3,3
+"1703","South Africa",2018,"Panama",71,3,3
+"1704","Switzerland",2009,"Congo",70,3,3
+"1705","Switzerland",2009,"Peru",75,3,3
+"1706","Switzerland",2009,"Bolivia",68,3,3.25
+"1707","Switzerland",2011,"Bolivia",66,3,3.75
+"1708","Switzerland",2014,"Papua New Guinea",68,3,2.75
+"1709","Switzerland",2014,"Blend",80,2,3.25
+"1710","U.S.A.",2006,"U.S.A.",60,5,3
+"1711","U.S.A.",2009,"U.S.A.",60,5,3
+"1712","Peru",2012,"Peru",65,4,3
+"1713","Peru",2012,"Peru",72,4,3
+"1714","Ecuador",2008,"Ecuador",60,4,2.75
+"1715","Ecuador",2008,"Ecuador",72,4,3
+"1716","Ecuador",2008,"Ecuador",65,4,3
+"1717","Ecuador",2008,"Ecuador",70,4,3.5
+"1718","Ecuador",2011,"Ecuador",70,4,3.5
+"1719","Ecuador",2012,"Ecuador",85,4,2.75
+"1720","Ecuador",2012,"Peru",70,4,4
+"1721","Ecuador",2014,"Ecuador",70,4,3.25
+"1722","Ecuador",2014,"Ecuador",70,4,3.5
+"1723","Ecuador",2014,"Ecuador",70,4,3.75
+"1724","Ecuador",2014,"Ecuador",70,4,4
+"1725","Ecuador",2016,"Colombia",70,4,4
+"1726","Japan",2018,"Vietnam",72,5,3.25
+"1727","Japan",2018,"Haiti",70,5,3.5
+"1728","Japan",2018,"Cuba",72,5,3.75
+"1729","Canada",2014,"Bolivia",72,2,2.75
+"1730","Canada",2014,"Ecuador",75,2,2.75
+"1731","Canada",2014,"Blend",75,2,3.5
+"1732","Canada",2014,"Madagascar",78,2,3.75
+"1733","Canada",2014,"Trinidad",70,2,3.75
+"1734","Canada",2015,"Bolivia",70,2,3.25
+"1735","Canada",2015,"Trinidad",70,2,3.25
+"1736","Canada",2015,"Tanzania",72,2,3.5
+"1737","Canada",2015,"Vietnam",72,2,3.75
+"1738","Canada",2016,"Guatemala",70,2,2.75
+"1739","Canada",2016,"Belize",72,2,3
+"1740","Canada",2017,"Peru",72,2,2.75
+"1741","Canada",2017,"Dominican Republic",75,2,2.75
+"1742","Canada",2017,"Haiti",70,2,3.5
+"1743","Canada",2019,"Peru",70,2,3.5
+"1744","Spain",2016,"Fiji",76,2,3
+"1745","Spain",2019,"Bolivia",76,2,2.75
+"1746","Spain",2019,"Philippines",76,2,3
+"1747","Spain",2019,"Belize",75,2,3.25
+"1748","Spain",2019,"Madagascar",76,2,3.25
+"1749","Spain",2019,"Dominican Republic",76,2,3.25
+"1750","Spain",2019,"Peru",71,2,3.5
+"1751","U.S.A.",2014,"Blend",65,3,3.5
+"1752","U.S.A.",2014,"Bolivia",70,2,3
+"1753","U.S.A.",2014,"Dominican Republic",70,2,3.5
+"1754","U.S.A.",2015,"Guatemala",70,2,3.5
+"1755","U.S.A.",2016,"Tanzania",70,2,3.25
+"1756","U.S.A.",2019,"Guatemala",75,3,2.75
+"1757","U.S.A.",2019,"Dominican Republic",75,3,2.75
+"1758","U.S.A.",2019,"Colombia",75,3,3
+"1759","Peru",2013,"Peru",55,4,2.5
+"1760","Peru",2013,"Peru",70,4,2.75
+"1761","U.S.A.",2007,"Madagascar",70,3,4
+"1762","U.S.A.",2009,"Madagascar",67,3,3.5
+"1763","U.S.A.",2009,"Venezuela",70,3,3.5
+"1764","U.S.A.",2009,"Madagascar",75,3,4
+"1765","U.S.A.",2011,"Blend",70,3,3.75
+"1766","U.S.A.",2013,"Peru",67,3,4
+"1767","U.K.",2014,"Madagascar",73,2,2.25
+"1768","U.K.",2014,"Madagascar",64,2,2.75
+"1769","U.S.A.",2015,"Dominican Republic",82,3,3
+"1770","U.S.A.",2018,"Fiji",75,3,3
+"1771","Canada",2019,"Peru",70,4,3.25
+"1772","Belgium",2006,"Indonesia",72,5,3
+"1773","Belgium",2006,"Venezuela",72,5,3.75
+"1774","Belgium",2006,"Mexico",72,5,4
+"1775","Belgium",2007,"Blend",85,5,3.5
+"1776","Belgium",2007,"Ecuador",72,5,3.75
+"1777","Belgium",2007,"Blend",70,5,4
+"1778","Belgium",2007,"Madagascar",72,5,4
+"1779","Belgium",2009,"Brazil",72,5,3
+"1780","Belgium",2009,"Mexico",72,5,3
+"1781","Belgium",2010,"Venezuela",75,5,3
+"1782","Belgium",2010,"Peru",85,5,3
+"1783","Belgium",2010,"Trinidad",75,5,3.25
+"1784","Belgium",2010,"Cuba",78,5,3.75
+"1785","Belgium",2015,"Cameroon",70,5,3.25
+"1786","Belgium",2019,"Madagascar",76,4,3
+"1787","Belgium",2019,"Cameroon",70,4,3
+"1788","Belgium",2021,"China",72,4,3.5
+"1789","U.S.A.",2020,"Vietnam",70,3,3
+"1790","U.S.A.",2020,"Tanzania",70,3,3.5
+"1791","U.S.A.",2020,"India",73,3,3.5
+"1792","U.S.A.",2016,"Honduras",80,4,2.5
+"1793","U.S.A.",2014,"Fiji",73,2,2.5
+"1794","U.S.A.",2014,"Madagascar",73,2,3.25
+"1795","U.S.A.",2014,"Ecuador",73,2,3.25
+"1796","U.S.A.",2014,"Ecuador",73,2,3.5
+"1797","U.S.A.",2015,"Nicaragua",62,3,2.5
+"1798","U.S.A.",2015,"Nicaragua",80,2,2.75
+"1799","U.S.A.",2015,"Nicaragua",80,3,2.75
+"1800","U.S.A.",2015,"Nicaragua",80,3,2.75
+"1801","U.S.A.",2015,"Nicaragua",80,2,3.25
+"1802","U.S.A.",2020,"Bolivia",70,3,3
+"1803","U.S.A.",2020,"Dominican Republic",70,3,3
+"1804","U.S.A.",2020,"Tanzania",70,3,3.25
+"1805","U.S.A.",2012,"Dominican Republic",76,3,2.5
+"1806","U.S.A.",2012,"Peru",82,3,2.75
+"1807","U.S.A.",2021,"Haiti",71,3,2.75
+"1808","U.S.A.",2021,"Guatemala",76,3,3
+"1809","U.S.A.",2021,"Ghana",66,3,3
+"1810","U.S.A.",2010,"Costa Rica",82,2,3.75
+"1811","U.S.A.",2011,"Peru",70,2,2.75
+"1812","U.S.A.",2011,"Costa Rica",70,2,3
+"1813","U.S.A.",2011,"Costa Rica",70,2,3.5
+"1814","U.S.A.",2011,"Brazil",70,2,3.5
+"1815","U.S.A.",2014,"Venezuela",70,2,3.75
+"1816","U.S.A.",2016,"Dominican Republic",70,2,3.75
+"1817","U.S.A.",2018,"Colombia",70,2,4
+"1818","U.S.A.",2021,"Uganda",75,2,3.75
+"1819","U.S.A.",2021,"Peru",70,2,3.75
+"1820","France",2006,"Vanuatu",75,4,3
+"1821","France",2006,"Cuba",75,4,3
+"1822","France",2006,"Blend",75,4,3
+"1823","France",2006,"Brazil",75,4,3
+"1824","France",2006,"Blend",75,4,3.5
+"1825","France",2006,"Jamaica",75,4,3.75
+"1826","France",2006,"Ecuador",80,4,3.75
+"1827","France",2007,"Sao Tome",75,4,4
+"1828","France",2008,"Dominican Republic",75,4,2
+"1829","France",2008,"Madagascar",100,2,3
+"1830","France",2008,"Brazil",75,4,3.5
+"1831","France",2009,"Venezuela",75,4,2
+"1832","France",2010,"Venezuela",75,4,3.5
+"1833","France",2011,"Venezuela",75,4,3.25
+"1834","France",2015,"Peru",75,3,3.25
+"1835","France",2019,"Papua New Guinea",75,4,3
+"1836","France",2019,"Indonesia",75,4,3
+"1837","France",2019,"Venezuela",75,4,3
+"1838","France",2019,"Madagascar",75,4,3
+"1839","France",2019,"Colombia",75,4,3
+"1840","France",2019,"Trinidad",75,4,3.25
+"1841","France",2019,"Ghana",75,4,3.25
+"1842","France",2019,"Sao Tome & Principe",75,4,3.5
+"1843","France",2019,"Tanzania",75,4,3.5
+"1844","France",2019,"Ecuador",75,4,3.5
+"1845","U.S.A.",2018,"Tanzania",75,2,3.25
+"1846","U.S.A.",2018,"Peru",75,2,3.25
+"1847","South Korea",2019,"Vietnam",70,2,2.75
+"1848","U.K.",2014,"Venezuela",75,3,2.75
+"1849","U.K.",2014,"Ecuador",85,3,2.75
+"1850","U.K.",2014,"Ecuador",75,3,3
+"1851","U.K.",2014,"Madagascar",72,3,3.25
+"1852","U.K.",2015,"Honduras",80,3,2.75
+"1853","U.K.",2015,"Grenada",70,3,3.5
+"1854","U.K.",2015,"Madagascar",74,3,3.5
+"1855","U.K.",2016,"Ecuador",77,3,3.5
+"1856","U.K.",2017,"Jamaica",75,2,3.75
+"1857","U.K.",2018,"Solomon Islands",72,3,3.25
+"1858","Italy",2012,"Venezuela",73,4,2.75
+"1859","Italy",2017,"Ecuador",73,4,3.25
+"1860","Italy",2017,"Papua New Guinea",75,4,3.25
+"1861","Italy",2017,"Vietnam",75,4,3.5
+"1862","Italy",2017,"Philippines",66,4,3.5
+"1863","Italy",2017,"Dominican Republic",65,4,3.75
+"1864","Brazil",2012,"Brazil",60,3,3
+"1865","Brazil",2012,"Brazil",65,3,3.25
+"1866","Brazil",2013,"Brazil",55,3,2.75
+"1867","Brazil",2013,"Brazil",75,3,3.25
+"1868","Brazil",2013,"Brazil",80,3,3.25
+"1869","Brazil",2013,"Brazil",85,3,3.5
+"1870","Canada",2018,"Peru",70,3,3
+"1871","Canada",2019,"Peru",70,3,3.75
+"1872","Canada",2020,"Peru",70,3,3.5
+"1873","Canada",2020,"Peru",70,3,4
+"1874","Canada",2021,"Peru",70,3,3.75
+"1875","Mexico",2016,"Mexico",70,3,2.75
+"1876","Mexico",2016,"Mexico",74,3,3
+"1877","U.S.A.",2011,"Dominican Republic",85,3,3.5
+"1878","U.S.A.",2012,"Madagascar",75,3,3.25
+"1879","U.S.A.",2015,"Congo",75,3,2.75
+"1880","U.S.A.",2016,"Peru",70,3,3
+"1881","U.S.A.",2017,"Haiti",70,3,3.25
+"1882","U.S.A.",2017,"Haiti",70,3,3.5
+"1883","Guatemala",2010,"Guatemala",70,5,2.75
+"1884","U.S.A.",2015,"Peru",70,2,2.5
+"1885","U.S.A.",2015,"Peru",80,2,3.25
+"1886","U.S.A.",2015,"Peru",73,2,3.5
+"1887","U.S.A.",2021,"Mexico",70,2,3.25
+"1888","France",2016,"Peru",75,3,3.25
+"1889","U.S.A.",2018,"Ecuador",72,3,3.5
+"1890","U.S.A.",2018,"Tanzania",72,3,3.75
+"1891","U.S.A.",2018,"Peru",72,3,3.75
+"1892","U.S.A.",2019,"Dominican Republic",72,3,3.5
+"1893","U.S.A.",2019,"Nicaragua",72,3,3.5
+"1894","U.S.A.",2021,"Ghana",72,3,3.5
+"1895","Ecuador",2007,"Ecuador",75,4,3
+"1896","Ecuador",2007,"Ecuador",67,4,3.5
+"1897","Ecuador",2007,"Ecuador",75,4,3.75
+"1898","Ecuador",2009,"Ecuador",75,4,2.5
+"1899","Ecuador",2010,"Ecuador",75,4,3.25
+"1900","U.S.A.",2011,"Costa Rica",75,2,3.5
+"1901","U.S.A.",2012,"Ecuador",75,2,3.25
+"1902","U.S.A.",2012,"Trinidad",75,2,3.5
+"1903","U.S.A.",2012,"Madagascar",75,2,4
+"1904","U.S.A.",2013,"Peru",75,2,3
+"1905","U.S.A.",2013,"Belize",75,2,3.75
+"1906","U.S.A.",2015,"Ecuador",85,2,3.5
+"1907","U.S.A.",2015,"Blend",70,2,3.5
+"1908","U.S.A.",2016,"Ecuador",75,2,3.75
+"1909","U.S.A.",2017,"Mexico",75,3,3.75
+"1910","U.S.A.",2019,"Nicaragua",70,2,3.5
+"1911","U.S.A.",2019,"Trinidad",80,2,3.5
+"1912","U.S.A.",2020,"Madagascar",75,3,3.5
+"1913","U.S.A.",2018,"Tanzania",72,3,3
+"1914","U.S.A.",2019,"Fiji",70,3,2.5
+"1915","U.S.A.",2019,"Peru",70,3,2.5
+"1916","South Korea",2016,"Costa Rica",70,2,3.25
+"1917","South Korea",2016,"Costa Rica",70,2,3.25
+"1918","South Korea",2016,"Costa Rica",70,2,3.25
+"1919","Madagascar",2013,"Madagascar",75,5,3.25
+"1920","Madagascar",2013,"Madagascar",68,4,3.25
+"1921","U.S.A.",2008,"Dominican Republic",70,2,2.75
+"1922","U.S.A.",2008,"Jamaica",70,2,2.75
+"1923","U.S.A.",2008,"Madagascar",70,2,3
+"1924","U.S.A.",2008,"Trinidad",70,2,3
+"1925","U.S.A.",2009,"Venezuela",70,2,3.5
+"1926","U.S.A.",2010,"Peru",75,2,3.75
+"1927","U.S.A.",2011,"Bolivia",75,2,3
+"1928","U.S.A.",2012,"Ecuador",75,2,3.75
+"1929","U.S.A.",2013,"Madagascar",70,2,3.5
+"1930","U.S.A.",2013,"Dominican Republic",70,2,3.5
+"1931","U.S.A.",2013,"Jamaica",75,2,3.75
+"1932","U.S.A.",2013,"Bolivia",75,2,4
+"1933","U.S.A.",2014,"Venezuela",80,2,3.75
+"1934","U.S.A.",2015,"Bolivia",75,2,3.25
+"1935","U.S.A.",2015,"Venezuela",70,2,3.75
+"1936","U.S.A.",2016,"Honduras",75,2,3.75
+"1937","Hungary",2011,"Venezuela",71,3,2.5
+"1938","Hungary",2011,"Principe",77,3,2.75
+"1939","Hungary",2011,"Venezuela",73,3,3.5
+"1940","Hungary",2011,"Venezuela",70,3,3.5
+"1941","Hungary",2012,"Venezuela",76,3,2.25
+"1942","Hungary",2012,"Venezuela",84,3,2.5
+"1943","Hungary",2012,"Madagascar",72,3,2.5
+"1944","Hungary",2017,"Venezuela",73,3,3.75
+"1945","Hungary",2021,"Peru",72,3,3.75
+"1946","Italy",2017,"Honduras",72,3,2.75
+"1947","Italy",2018,"Haiti",75,3,3
+"1948","Italy",2018,"Nicaragua",70,3,3.5
+"1949","Italy",2021,"Indonesia",77,2,2.75
+"1950","Italy",2021,"Tanzania",72,2,3.5
+"1951","U.S.A.",2012,"Blend",83,4,2.75
+"1952","U.S.A.",2012,"Blend",69,4,3.25
+"1953","Argentina",2008,"Brazil",70,4,3.5
+"1954","Argentina",2008,"Ecuador",70,4,3.5
+"1955","Argentina",2008,"Venezuela",70,4,3.5
+"1956","Argentina",2008,"Ecuador",70,4,3.5
+"1957","Ecuador",2017,"Ecuador",70,4,3.25
+"1958","Colombia",2006,"Colombia",53,5,2
+"1959","Colombia",2006,"Colombia",65,5,3
+"1960","Colombia",2006,"Colombia",70,5,3.75
+"1961","Colombia",2009,"Colombia",75,3,2.75
+"1962","Colombia",2009,"Colombia",70,5,3
+"1963","France",2011,"Sao Tome",70,5,2.75
+"1964","U.S.A.",2006,"Blend",82,5,2
+"1965","U.S.A.",2006,"Blend",68,5,2
+"1966","U.S.A.",2006,"Jamaica",70,5,2
+"1967","U.S.A.",2006,"Blend",62,5,3
+"1968","U.S.A.",2006,"Blend",70,5,3.5
+"1969","U.S.A.",2007,"Blend",72,5,3
+"1970","U.S.A.",2007,"Blend",62,5,3
+"1971","U.S.A.",2007,"Blend",75,5,3
+"1972","U.S.A.",2007,"Venezuela",75,5,3.75
+"1973","U.S.A.",2008,"Blend",72,5,3
+"1974","U.S.A.",2009,"Brazil",68,5,3.75
+"1975","U.S.A.",2009,"Vietnam",72,5,3.75
+"1976","U.S.A.",2009,"Ghana",65,5,4
+"1977","U.S.A.",2010,"Grenada",68,5,3.5
+"1978","U.S.A.",2010,"Madagascar",65,5,3.75
+"1979","U.S.A.",2011,"Papua New Guinea",68,5,3.75
+"1980","U.S.A.",2012,"Peru",78,4,4
+"1981","U.K.",2015,"Dominican Republic",70,2,2.75
+"1982","U.K.",2015,"Grenada",70,2,2.75
+"1983","U.S.A.",2018,"Honduras",70,2,2.75
+"1984","U.S.A.",2018,"Dominican Republic",70,2,3
+"1985","U.S.A.",2018,"Tanzania",70,2,3.25
+"1986","U.S.A.",2019,"Fiji",70,2,2.75
+"1987","U.S.A.",2019,"Uganda",70,2,3.5
+"1988","U.S.A.",2021,"Trinidad",75,2,3.25
+"1989","U.S.A.",2021,"Peru",70,2,3.5
+"1990","U.S.A.",2021,"Vietnam",70,2,3.5
+"1991","U.S.A.",2021,"India",70,2,3.5
+"1992","U.S.A.",2019,"Guatemala",70,3,3
+"1993","U.S.A.",2019,"Colombia",70,3,3
+"1994","U.S.A.",2019,"Belize",70,3,3.5
+"1995","U.S.A.",2014,"Ecuador",75,2,3
+"1996","U.S.A.",2014,"Belize",72,2,3.25
+"1997","U.S.A.",2015,"Venezuela",77,2,2.75
+"1998","U.S.A.",2015,"Jamaica",72,2,3.25
+"1999","U.S.A.",2015,"Papua New Guinea",73,2,3.5
+"2000","U.S.A.",2015,"Dominican Republic",74,2,3.5
+"2001","U.S.A.",2011,"U.S.A.",73,4,2
+"2002","U.S.A.",2011,"U.S.A.",73,4,2.5
+"2003","Peru",2011,"Peru",75,3,3.5
+"2004","Peru",2016,"Peru",70,3,3.25
+"2005","Costa Rica",2015,"Costa Rica",82,3,3.25
+"2006","Costa Rica",2015,"Costa Rica",70,3,3.5
+"2007","Italy",2011,"Belize",67,4,3
+"2008","Italy",2011,"Colombia",68,4,3
+"2009","Italy",2011,"Sao Tome",65,4,3.25
+"2010","Italy",2011,"Brazil",60,4,3.25
+"2011","Canada",2014,"Madagascar",67,3,3.75
+"2012","Canada",2014,"Madagascar",73,3,3.75
+"2013","Canada",2014,"Ecuador",73,3,3.75
+"2014","Canada",2015,"Madagascar",100,1,3
+"2015","Canada",2015,"Ecuador",100,1,3
+"2016","Canada",2015,"Guatemala",73,2,3
+"2017","Canada",2015,"Guatemala",73,2,3.25
+"2018","Canada",2015,"Haiti",73,2,3.25
+"2019","Canada",2016,"Bolivia",73,2,3.5
+"2020","Canada",2016,"Tanzania",73,2,3.5
+"2021","Canada",2016,"Ecuador",73,2,3.75
+"2022","Canada",2017,"Peru",73,2,3.75
+"2023","Canada",2021,"Mexico",73,3,3
+"2024","Canada",2021,"India",73,3,3.25
+"2025","U.S.A.",2015,"Ghana",70,4,2.75
+"2026","U.S.A.",2015,"Nicaragua",72,3,3
+"2027","Australia",2015,"Bolivia",72,3,2.75
+"2028","Australia",2015,"Peru",67,3,3
+"2029","Australia",2015,"Madagascar",65,3,3.25
+"2030","Australia",2015,"Madagascar",70,3,3.5
+"2031","Australia",2015,"Papua New Guinea",65,3,3.5
+"2032","Australia",2015,"Tanzania",67,3,3.75
+"2033","Australia",2015,"Trinidad",70,3,3.75
+"2034","Australia",2015,"Venezuela",70,3,3.75
+"2035","Australia",2015,"Ecuador",72,3,4
+"2036","Australia",2016,"Vietnam",70,3,3
+"2037","Australia",2016,"Guatemala",70,3,3.25
+"2038","Australia",2016,"Venezuela",70,3,3.75
+"2039","Australia",2016,"Belize",70,3,3.75
+"2040","Australia",2016,"Australia",67,3,3.75
+"2041","Australia",2016,"Ecuador",70,3,4
+"2042","Australia",2017,"Dominican Republic",70,3,3.5
+"2043","Australia",2017,"Haiti",70,3,3.5
+"2044","U.S.A.",2010,"Madagascar",68,3,3
+"2045","U.S.A.",2010,"Ecuador",68,3,3.25
+"2046","U.S.A.",2011,"Ghana",67,3,1.5
+"2047","Amsterdam",2018,"Sulawesi",66,3,3.25
+"2048","India",2017,"India",70,3,2.75
+"2049","U.S.A.",2015,"Madagascar",72,2,3
+"2050","U.S.A.",2016,"Ecuador",70,2,3.5
+"2051","U.K.",2016,"Dominican Republic",85,2,2.75
+"2052","U.K.",2016,"Peru",68,2,2.75
+"2053","U.K.",2019,"Philippines",70,3,2.5
+"2054","New Zealand",2016,"Solomon Islands",70,2,3.25
+"2055","New Zealand",2016,"Solomon Islands",75,2,3.25
+"2056","U.S.A.",2013,"Madagascar",70,2,3
+"2057","U.S.A.",2013,"Venezuela",70,2,3
+"2058","U.S.A.",2013,"Bolivia",70,2,3.25
+"2059","U.S.A.",2013,"Peru",70,3,3.25
+"2060","U.S.A.",2013,"Blend",70,3,3.5
+"2061","U.S.A.",2014,"Uganda",70,3,3
+"2062","U.S.A.",2017,"Tanzania",70,3,3.25
+"2063","U.S.A.",2018,"India",70,3,3.25
+"2064","U.S.A.",2021,"Vietnam",70,3,3.5
+"2065","Canada",2009,"Dominican Republic",70,3,3
+"2066","Canada",2009,"Dominican Republic",70,3,3
+"2067","Canada",2009,"Ghana",70,3,3.5
+"2068","Canada",2009,"Papua New Guinea",70,3,3.5
+"2069","Canada",2009,"Madagascar",70,3,3.75
+"2070","Canada",2009,"Venezuela",70,3,3.75
+"2071","Canada",2010,"Blend",70,3,3.75
+"2072","Canada",2011,"Grenada",70,3,2.75
+"2073","Canada",2011,"Bolivia",70,3,3.5
+"2074","Canada",2011,"Venezuela",70,3,3.5
+"2075","Canada",2011,"Dominican Republic",70,3,3.75
+"2076","Canada",2011,"Blend",70,3,4
+"2077","Canada",2011,"Peru",64,3,4
+"2078","Canada",2012,"Haiti",70,3,3.25
+"2079","Canada",2012,"Guatemala",70,3,3.5
+"2080","Canada",2012,"Blend",70,3,3.5
+"2081","Canada",2012,"Papua New Guinea",85,3,3.5
+"2082","Canada",2012,"U.S.A.",70,3,3.75
+"2083","Canada",2012,"Venezuela",70,3,3.75
+"2084","Canada",2012,"Blend",70,3,4
+"2085","Canada",2012,"Blend",70,3,4
+"2086","Canada",2013,"Peru",70,3,2.75
+"2087","Canada",2013,"Indonesia",70,3,3.25
+"2088","Canada",2013,"Blend",70,3,3.25
+"2089","Canada",2013,"Venezuela",70,3,3.25
+"2090","Canada",2013,"Dominican Republic",77,3,3.75
+"2091","Canada",2013,"Trinidad",70,3,3.75
+"2092","Canada",2013,"Venezuela",70,3,3.75
+"2093","Canada",2013,"Blend",88,3,4
+"2094","Canada",2013,"Venezuela",70,3,4
+"2095","Canada",2013,"Blend",67,3,4
+"2096","Canada",2013,"Jamaica",70,3,4
+"2097","Canada",2014,"Nicaragua",70,3,3.25
+"2098","Canada",2014,"Blend",70,3,3.25
+"2099","Canada",2014,"Nicaragua",70,3,3.5
+"2100","Canada",2014,"Ecuador",80,3,3.5
+"2101","Canada",2014,"Peru",70,3,3.75
+"2102","Canada",2014,"Vanuatu",70,3,3.75
+"2103","Canada",2015,"Venezuela",70,3,3.5
+"2104","Canada",2015,"Venezuela",75,3,4
+"2105","Canada",2016,"Ecuador",70,3,3.25
+"2106","Canada",2016,"Dominican Republic",62,3,3.5
+"2107","Canada",2016,"Madagascar",70,3,3.5
+"2108","Canada",2016,"Brazil",70,3,3.5
+"2109","Canada",2016,"Nicaragua",70,3,3.75
+"2110","Canada",2016,"Blend",75,3,3.75
+"2111","Canada",2016,"Vietnam",70,3,4
+"2112","Canada",2017,"Fiji",70,3,3.25
+"2113","Canada",2017,"Colombia",70,3,4
+"2114","Canada",2018,"Haiti",70,3,3
+"2115","Canada",2018,"Madagascar",70,3,4
+"2116","Canada",2018,"Venezuela",70,3,4
+"2117","Canada",2021,"Blend",62,4,3.25
+"2118","Canada",2021,"Madagascar",70,3,3.5
+"2119","Canada",2021,"Venezuela",70,3,3.5
+"2120","Canada",2021,"Vietnam",70,3,4
+"2121","U.S.A.",2014,"Nicaragua",70,2,3.25
+"2122","U.S.A.",2014,"U.S.A.",70,2,3.5
+"2123","Canada",2017,"Dominican Republic",70,2,3.25
+"2124","Canada",2017,"Ecuador",75,2,3.25
+"2125","Canada",2017,"Papua New Guinea",77,2,3.25
+"2126","Canada",2017,"Madagascar",70,2,3.5
+"2127","Canada",2017,"Venezuela",75,2,3.5
+"2128","Canada",2017,"Tanzania",80,2,3.5
+"2129","U.S.A.",2012,"Dominican Republic",70,4,3
+"2130","U.S.A.",2012,"Dominican Republic",80,4,3
+"2131","U.S.A.",2012,"Dominican Republic",75,4,3.25
+"2132","Australia",2014,"Vanuatu",72,3,2.75
+"2133","Australia",2016,"Dominican Republic",70,3,3.5
+"2134","Australia",2016,"Ecuador",70,3,3.75
+"2135","Australia",2016,"Madagascar",70,3,3.75
+"2136","U.S.A.",2017,"Peru",70,3,2.75
+"2137","U.S.A.",2017,"Ecuador",70,3,3.5
+"2138","U.S.A.",2017,"Dominican Republic",70,3,3.75
+"2139","U.S.A.",2021,"Belize",70,2,3.25
+"2140","U.S.A.",2021,"Madagascar",70,2,3.5
+"2141","U.S.A.",2021,"Uganda",70,2,3.5
+"2142","Switzerland",2013,"Bolivia",70,4,3
+"2143","U.S.A.",2013,"Dominican Republic",84,3,2.25
+"2144","U.S.A.",2013,"Dominican Republic",70,3,3
+"2145","U.S.A.",2015,"Ecuador",70,4,3
+"2146","U.S.A.",2015,"Dominican Republic",70,4,3
+"2147","U.S.A.",2015,"Guatemala",70,4,3
+"2148","U.S.A.",2015,"Nicaragua",70,4,3
+"2149","U.S.A.",2015,"Madagascar",70,4,3
+"2150","Switzerland",2011,"India",72,4,3.25
+"2151","Switzerland",2012,"Brazil",68,4,2.75
+"2152","U.S.A.",2014,"Ecuador",84,3,3.5
+"2153","U.S.A.",2014,"Ecuador",70,3,3.5
+"2154","U.S.A.",2017,"Bolivia",70,3,2.5
+"2155","U.S.A.",2012,"Philippines",65,4,2.5
+"2156","U.S.A.",2012,"Philippines",70,4,2.5
+"2157","U.S.A.",2012,"Philippines",75,4,2.75
+"2158","U.S.A.",2013,"Madagascar",67,2,2.75
+"2159","U.S.A.",2013,"Belize",78,2,3.25
+"2160","Denmark",2016,"Peru",61,5,2.5
+"2161","Denmark",2016,"Peru",71,5,3
+"2162","Venezuela",2016,"Venezuela",70,3,2.75
+"2163","Venezuela",2016,"Venezuela",60,3,3
+"2164","Sweden",2015,"Sri Lanka",70,2,2.75
+"2165","Sweden",2019,"Tanzania",74,2,2.75
+"2166","U.S.A.",2021,"Honduras",72,3,3
+"2167","U.S.A.",2021,"Peru",72,3,3
+"2168","U.S.A.",2021,"Uganda",77,3,3.5
+"2169","U.S.A.",2021,"Trinidad",80,3,3.75
+"2170","Japan",2018,"Peru",70,5,2.5
+"2171","Japan",2018,"Tanzania",75,3,2.75
+"2172","Japan",2018,"Belize",70,5,3
+"2173","Japan",2018,"Brazil",70,5,3
+"2174","Japan",2018,"Venezuela",75,5,3.25
+"2175","Canada",2020,"Mexico",74,3,3
+"2176","Canada",2020,"Peru",68,3,3.25
+"2177","Canada",2020,"Papua New Guinea",73,3,3.25
+"2178","Hungary",2011,"Venezuela",70,3,3
+"2179","Hungary",2012,"Dominican Republic",70,3,3.25
+"2180","Hungary",2012,"Madagascar",70,3,3.25
+"2181","Hungary",2012,"Peru",70,3,3.75
+"2182","Hungary",2013,"Nicaragua",70,3,3.25
+"2183","Hungary",2013,"Madagascar",70,3,3.5
+"2184","Hungary",2013,"Madagascar",70,3,3.5
+"2185","Hungary",2014,"Venezuela",70,3,3.5
+"2186","Hungary",2014,"Cuba",70,3,3.75
+"2187","Hungary",2015,"Ecuador",70,3,3.25
+"2188","Hungary",2015,"Cuba",88,3,3.25
+"2189","Hungary",2015,"Madagascar",70,3,3.25
+"2190","Hungary",2015,"Vietnam",70,3,3.25
+"2191","Hungary",2015,"Brazil",70,3,3.5
+"2192","Hungary",2015,"Ecuador",70,3,3.75
+"2193","U.S.A.",2013,"Mexico",70,4,2.5
+"2194","U.S.A.",2013,"Costa Rica",70,4,2.75
+"2195","U.S.A.",2013,"Dominican Republic",70,4,2.75
+"2196","U.S.A.",2013,"Peru",70,4,3
+"2197","Japan",2015,"Trinidad",77,4,2.75
+"2198","Japan",2015,"Colombia",70,5,3
+"2199","Japan",2015,"Papua New Guinea",62,5,3.25
+"2200","Japan",2015,"Vietnam",60,5,3.25
+"2201","Vietnam",2019,"Vietnam",70,3,2.75
+"2202","Vietnam",2019,"Vietnam",75,3,3
+"2203","Suriname",2016,"Suriname",70,2,3.25
+"2204","U.S.A.",2019,"Venezuela",75,4,3
+"2205","U.S.A.",2019,"Peru",75,3,3.25
+"2206","U.S.A.",2019,"Peru",75,3,4
+"2207","U.S.A.",2015,"Madagascar",75,4,3
+"2208","Switzerland",2019,"Nicaragua",72,3,3
+"2209","Switzerland",2019,"Mexico",70,3,3.25
+"2210","U.S.A.",2021,"Haiti",67,3,2.75
+"2211","U.S.A.",2007,"Dominican Republic",70,3,3
+"2212","U.S.A.",2009,"Mexico",75,3,2.75
+"2213","U.S.A.",2011,"Bolivia",87,3,3.25
+"2214","U.S.A.",2014,"Belize",68,3,3
+"2215","U.S.A.",2008,"Ghana",70,5,2.5
+"2216","U.S.A.",2008,"Peru",70,5,2.5
+"2217","U.S.A.",2008,"Peru",70,5,2.5
+"2218","U.S.A.",2008,"Madagascar",70,5,2.75
+"2219","U.S.A.",2009,"Blend",60,5,2.75
+"2220","U.S.A.",2009,"Blend",68,5,3
+"2221","U.S.A.",2016,"Blend",62,5,2
+"2222","U.S.A.",2012,"Peru",70,4,2
+"2223","U.S.A.",2012,"Madagascar",70,4,2.75
+"2224","U.S.A.",2012,"Bolivia",70,3,2.75
+"2225","U.S.A.",2012,"Brazil",70,3,2.75
+"2226","U.S.A.",2012,"Blend",70,4,3
+"2227","U.S.A.",2012,"Papua New Guinea",70,4,3
+"2228","U.S.A.",2012,"Madagascar",70,3,3
+"2229","U.S.A.",2012,"Venezuela",80,4,3
+"2230","U.S.A.",2012,"Ecuador",70,4,3.25
+"2231","U.S.A.",2012,"Ecuador",70,3,3.25
+"2232","U.S.A.",2012,"Mexico",70,3,3.25
+"2233","U.S.A.",2012,"Bolivia",67,3,3.25
+"2234","U.S.A.",2012,"Dominican Republic",70,4,3.5
+"2235","U.S.A.",2012,"Brazil",70,3,3.5
+"2236","U.S.A.",2014,"Ecuador",77,2,3.25
+"2237","U.S.A.",2014,"Madagascar",67,2,3.75
+"2238","U.S.A.",2014,"Uganda",73,2,3.75
+"2239","U.S.A.",2015,"Peru",70,2,2.75
+"2240","U.S.A.",2015,"Ecuador",70,2,3.25
+"2241","U.S.A.",2015,"Dominican Republic",70,3,3.5
+"2242","U.S.A.",2015,"Belize",70,2,3.75
+"2243","U.S.A.",2015,"Madagascar",70,2,3.75
+"2244","U.S.A.",2015,"Guatemala",70,3,3.75
+"2245","U.S.A.",2019,"Haiti",72,3,2.75
+"2246","U.S.A.",2019,"Belize",77,3,3
+"2247","U.S.A.",2019,"Bolivia",77,3,3.25
+"2248","Sweden",2015,"Peru",70,3,3
+"2249","U.S.A.",2007,"Venezuela",91,2,2
+"2250","U.S.A.",2007,"Ivory Coast",75,4,2.5
+"2251","U.S.A.",2007,"Ghana",84,4,3
+"2252","U.S.A.",2007,"Blend",75,3,3
+"2253","U.S.A.",2007,"Madagascar",65,3,3.5
+"2254","U.S.A.",2012,"Congo",65,4,3.25
+"2255","Japan",2015,"Peru",70,2,3.25
+"2256","U.S.A.",2019,"Ecuador",70,2,3.5
+"2257","Colombia",2018,"Colombia",70,3,3
+"2258","Colombia",2018,"Colombia",70,3,3.25
+"2259","Germany",2016,"Belize",72,3,3.75
+"2260","U.S.A.",2019,"Tanzania",71,2,2.75
+"2261","Ecuador",2020,"Ecuador",75,3,3.25
+"2262","Ecuador",2014,"Ecuador",81,2,3.25
+"2263","U.S.A.",2011,"Venezuela",72,3,2.75
+"2264","U.S.A.",2011,"Dominican Republic",74,3,3
+"2265","U.S.A.",2012,"Bolivia",77,3,3
+"2266","U.K.",2018,"Haiti",70,3,2.75
+"2267","U.K.",2018,"Bolivia",70,3,3
+"2268","U.K.",2018,"Belize",70,3,3.5
+"2269","U.K.",2019,"Colombia",70,3,2.75
+"2270","South Korea",2019,"Ecuador",70,2,3.5
+"2271","U.S.A.",2014,"Dominican Republic",72,2,3
+"2272","U.S.A.",2012,"Dominican Republic",70,3,2.75
+"2273","U.S.A.",2012,"Dominican Republic",70,3,3.25
+"2274","U.S.A.",2020,"Nicaragua",70,2,3.25
+"2275","U.S.A.",2020,"Haiti",70,2,3.25
+"2276","U.S.A.",2020,"Guatemala",70,2,3.75
+"2277","U.S.A.",2021,"Philippines",70,2,3.25
+"2278","Peru",2018,"Peru",73,3,3
+"2279","Peru",2018,"Peru",70,3,3.5
+"2280","Canada",2020,"Vietnam",70,2,2.75
+"2281","Canada",2020,"Honduras",70,2,2.75
+"2282","Canada",2020,"Peru",70,2,3
+"2283","U.S.A.",2011,"Dominican Republic",73,2,2.75
+"2284","U.S.A.",2013,"Bolivia",75,2,2.5
+"2285","U.S.A.",2013,"Dominican Republic",68,2,3.25
+"2286","U.S.A.",2014,"Madagascar",75,2,3.5
+"2287","U.S.A.",2015,"Dominican Republic",75,2,2.75
+"2288","U.S.A.",2015,"Ecuador",75,2,3.5
+"2289","U.S.A.",2017,"Tanzania",75,2,3.25
+"2290","U.S.A.",2016,"Peru",60,3,3
+"2291","Canada",2017,"Dominican Republic",75,2,2.75
+"2292","Canada",2017,"Tanzania",75,2,3
+"2293","Canada",2017,"Guatemala",75,2,3.25
+"2294","U.S.A.",2014,"Nicaragua",74,2,2.75
+"2295","U.S.A.",2014,"Dominican Republic",70,2,3
+"2296","U.S.A.",2016,"Madagascar",72,2,3
+"2297","U.S.A.",2016,"Tanzania",72,2,3.25
+"2298","Italy",2014,"Venezuela",65,4,3.25
+"2299","Spain",2017,"Colombia",70,3,3.75
+"2300","Spain",2018,"Nicaragua",70,3,3.75
+"2301","Canada",2020,"Belize",74,3,3.5
+"2302","France",2006,"Trinidad",64,5,2.5
+"2303","France",2006,"Blend",66,5,3
+"2304","France",2006,"Venezuela",64,5,3
+"2305","France",2006,"Madagascar",64,5,3.5
+"2306","France",2006,"Blend",70,5,3.75
+"2307","France",2007,"Blend",85,5,1.5
+"2308","France",2007,"Blend",85,5,2.5
+"2309","France",2007,"Blend",71,5,2.75
+"2310","France",2007,"Blend",72,5,3
+"2311","France",2007,"Venezuela",64,5,3.25
+"2312","France",2007,"Venezuela",65,5,3.75
+"2313","France",2007,"Madagascar",64,5,4
+"2314","France",2009,"Ghana",68,5,3.5
+"2315","France",2009,"Dominican Republic",64,5,3.75
+"2316","France",2009,"Ecuador",66,5,3.75
+"2317","France",2011,"Blend",56,5,3.25
+"2318","France",2011,"Venezuela",64,5,4
+"2319","France",2012,"Venezuela",69,5,4
+"2320","France",2013,"Blend",70,5,3.5
+"2321","France",2013,"Dominican Republic",64,5,3.5
+"2322","France",2015,"Peru",63,5,4
+"2323","France",2017,"Blend",60,3,3.25
+"2324","Madagascar",2009,"Madagascar",72,3,2.75
+"2325","Madagascar",2009,"Madagascar",76,4,2.75
+"2326","Madagascar",2009,"Madagascar",80,4,2.75
+"2327","U.S.A.",2015,"Bolivia",70,2,3.25
+"2328","U.S.A.",2015,"Bolivia",70,2,3.25
+"2329","U.S.A.",2018,"Bolivia",70,2,2.75
+"2330","U.S.A.",2018,"Guatemala",70,2,3
+"2331","U.S.A.",2018,"Dominican Republic",70,2,3.25
+"2332","U.S.A.",2012,"Blend",70,3,3.25
+"2333","U.S.A.",2013,"Blend",90,3,3.75
+"2334","U.S.A.",2014,"Dominican Republic",90,3,3.25
+"2335","U.S.A.",2014,"Trinidad",75,3,3.5
+"2336","U.S.A.",2014,"Ecuador",75,3,3.5
+"2337","U.S.A.",2021,"Guatemala",75,2,2.75
+"2338","U.S.A.",2021,"Dominican Republic",75,2,3
+"2339","U.S.A.",2021,"Blend",70,3,3.5
+"2340","U.S.A.",2021,"Ecuador",75,2,3.5
+"2341","France",2012,"Vietnam",70,4,3.5
+"2342","U.S.A.",2014,"Peru",75,3,3
+"2343","U.S.A.",2007,"Ecuador",65,3,3
+"2344","U.S.A.",2015,"Madagascar",77,2,2.75
+"2345","U.S.A.",2015,"Guatemala",77,2,2.75
+"2346","U.S.A.",2015,"Belize",77,2,3
+"2347","U.S.A.",2015,"Venezuela",77,2,3
+"2348","U.S.A.",2015,"Peru",77,2,3.25
+"2349","U.S.A.",2016,"Peru",70,5,2.5
+"2350","U.S.A.",2016,"Venezuela",70,5,2.5
+"2351","U.S.A.",2016,"Dominican Republic",70,5,3
+"2352","U.S.A.",2018,"Bolivia",70,5,2.5
+"2353","U.S.A.",2018,"Haiti",70,5,2.5
+"2354","New Zealand",2016,"Dominican Republic",70,2,3.5
+"2355","New Zealand",2016,"Peru",70,2,3.5
+"2356","New Zealand",2017,"Samoa",77,2,3
+"2357","U.S.A.",2018,"Tanzania",68,3,3
+"2358","U.S.A.",2018,"Bolivia",72,3,3
+"2359","U.S.A.",2021,"Philippines",74,3,3.5
+"2360","U.S.A.",2021,"Uganda",72,3,3.5
+"2361","U.S.A.",2021,"Honduras",74,2,3.75
+"2362","U.S.A.",2021,"Trinidad",72,3,3.75
+"2363","Ireland",2013,"Peru",75,3,2.5
+"2364","Ireland",2013,"Peru",89,3,2.75
+"2365","Ireland",2013,"Peru",75,3,2.75
+"2366","Ireland",2013,"Peru",75,3,3.25
+"2367","U.K.",2009,"Peru",70,3,3
+"2368","U.K.",2009,"Venezuela",72,3,3.25
+"2369","U.K.",2010,"Madagascar",71,3,3
+"2370","U.K.",2010,"Venezuela",72,3,3.5
+"2371","U.K.",2010,"Indonesia",69,3,3.75
+"2372","U.K.",2014,"Colombia",88,3,3
+"2373","U.K.",2016,"Colombia",70,3,4
+"2374","U.S.A.",2016,"Venezuela",74,3,3
+"2375","U.S.A.",2016,"Bolivia",76,3,3.5
+"2376","U.S.A.",2016,"Ghana",75,3,3.75
+"2377","U.S.A.",2019,"Belize",68,3,3.25
+"2378","U.S.A.",2019,"Venezuela",70,3,3.5
+"2379","U.S.A.",2021,"Dominican Republic",70,3,3.5
+"2380","U.S.A.",2011,"Dominican Republic",70,2,3.5
+"2381","U.S.A.",2011,"Venezuela",70,2,4
+"2382","U.S.A.",2012,"Ecuador",70,2,2.5
+"2383","U.S.A.",2012,"Costa Rica",70,2,3
+"2384","U.S.A.",2012,"Madagascar",70,3,3.25
+"2385","U.S.A.",2013,"Ecuador",70,2,3.25
+"2386","U.S.A.",2013,"Trinidad",70,2,3.5
+"2387","U.S.A.",2014,"Peru",70,2,3
+"2388","U.S.A.",2021,"Tanzania",70,2,3
+"2389","Dominican Republic",2013,"Dominican Republic",66,5,3
+"2390","El Salvador",2019,"El Salvador",65,4,2.75
+"2391","El Salvador",2019,"El Salvador",75,4,3
+"2392","El Salvador",2019,"El Salvador",70,4,3.25
+"2393","U.S.A.",2020,"Tanzania",73,2,3.25
+"2394","U.S.A.",2020,"Peru",70,2,3.5
+"2395","U.S.A.",2020,"Nicaragua",72,2,3.5
+"2396","U.S.A.",2017,"Dominican Republic",70,2,2.5
+"2397","U.S.A.",2017,"Madagascar",70,2,2.75
+"2398","U.S.A.",2021,"Trinidad",70,3,3.25
+"2399","U.S.A.",2021,"Vietnam",70,3,3.5
+"2400","U.S.A.",2021,"Dominican Republic",70,3,3.5
+"2401","U.S.A.",2021,"Bolivia",70,3,3
+"2402","U.S.A.",2015,"Papua New Guinea",70,3,3
+"2403","U.S.A.",2015,"Blend",60,3,3
+"2404","U.S.A.",2015,"Dominican Republic",70,3,3.25
+"2405","U.S.A.",2015,"Madagascar",70,3,3.25
+"2406","U.S.A.",2015,"Peru",70,3,3.25
+"2407","U.S.A.",2015,"Belize",70,3,3.5
+"2408","Austria",2016,"Ecuador",70,3,2.75
+"2409","Austria",2016,"Trinidad",85,3,2.75
+"2410","Austria",2016,"Tanzania",85,3,3
+"2411","Austria",2016,"Madagascar",70,3,3.5
+"2412","Austria",2016,"Tanzania",70,3,3.5
+"2413","Austria",2016,"Trinidad",78,2,3.5
+"2414","Australia",2011,"Bolivia",68,4,3.5
+"2415","Australia",2011,"Papua New Guinea",66,4,3.5
+"2416","Australia",2011,"Bolivia",72,4,3.75
+"2417","Australia",2016,"Blend",65,5,3.25
+"2418","Australia",2016,"Solomon Islands",78,4,3.75
+"2419","Belgium",2018,"Nicaragua",72,3,3
+"2420","Belgium",2018,"DR Congo",68,3,3
+"2421","Belgium",2018,"Nicaragua",75,3,3.25
+"2422","Belgium",2018,"Nicaragua",70,3,3.75
+"2423","Austria",2010,"Brazil",65,4,3
+"2424","Austria",2011,"Congo",65,4,3
+"2425","Austria",2011,"India",62,4,3.25
+"2426","Austria",2011,"India",65,4,3.5
+"2427","Austria",2011,"Peru",70,4,3.75
+"2428","Austria",2012,"Peru",70,4,3
+"2429","Austria",2012,"Ecuador",75,4,3
+"2430","Austria",2012,"Papua New Guinea",75,4,3
+"2431","Austria",2012,"Bolivia",90,4,3.25
+"2432","Austria",2012,"Congo",68,4,3.25
+"2433","Austria",2012,"Panama",72,4,3.5
+"2434","Austria",2012,"Blend",65,4,3.5
+"2435","Austria",2012,"Peru",70,4,3.5
+"2436","Austria",2012,"Blend",58,4,3.5
+"2437","Austria",2012,"Dominican Republic",62,4,3.75
+"2438","Austria",2012,"Dominican Republic",70,4,3.75
+"2439","Austria",2014,"Blend",80,4,2.75
+"2440","Austria",2017,"Colombia",75,3,3.75
+"2441","Austria",2018,"Blend",75,3,3
+"2442","Austria",2018,"Congo",70,3,3.25
+"2443","Austria",2018,"Belize",72,3,3.5
